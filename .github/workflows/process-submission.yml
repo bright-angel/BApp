@@ -1,0 +1,114 @@
+name: 处理扩展提交
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  process-submission:
+    # 只处理带有 "扩展提交" 标题前缀的 Issue
+    if: startsWith(github.event.issue.title, '[扩展提交]')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: |
+          pip install PyGithub requests
+
+      - name: 处理扩展提交
+        id: process
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          python scripts/add_extension_from_issue.py
+          echo "result=$?" >> $GITHUB_OUTPUT
+
+      - name: 提交更改
+        if: success()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          if git diff --quiet data/extensions.json; then
+            echo "没有变更，可能是重复提交"
+            echo "status=duplicate" >> $GITHUB_ENV
+          else
+            git add data/extensions.json
+            git commit -m "feat: 添加扩展 (#${{ github.event.issue.number }})"
+            git push
+            echo "status=success" >> $GITHUB_ENV
+          fi
+
+      - name: 评论 Issue - 成功
+        if: env.status == 'success'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '✅ **扩展已成功添加到库中！**\n\n感谢您的贡献！扩展数据已更新，网站将在几分钟内自动部署。\n\n🔗 查看: https://' + context.repo.owner + '.github.io/BApp/'
+            });
+
+            github.rest.issues.update({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'closed',
+              labels: ['扩展提交', '已完成']
+            });
+
+      - name: 评论 Issue - 重复
+        if: env.status == 'duplicate'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '⚠️ **该扩展已存在于库中**\n\n此项目已被收录，无需重复提交。\n\n🔗 查看: https://' + context.repo.owner + '.github.io/BApp/'
+            });
+
+            github.rest.issues.update({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'closed',
+              labels: ['扩展提交', '重复']
+            });
+
+      - name: 评论 Issue - 失败
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '❌ **处理失败**\n\n请检查:\n- GitHub 项目链接是否正确\n- 项目是否公开可访问\n- 是否为有效的 Burp Suite 扩展\n\n如有疑问，请在评论中说明。'
+            });
+
+            github.rest.issues.addLabels({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: ['需要检查']
+            });

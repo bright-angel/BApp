@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Burp Suite Extensions Directory</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Burp Suite Extensions Directory</h1>
+            <p class="subtitle">精选 Burp Suite 开源扩展集合</p>
+        </header>
+
+        <div class="search-section">
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="搜索扩展名称、作者、标签或描述..."
+                autocomplete="off"
+            >
+            <div class="stats">
+                共 <span id="totalCount">0</span> 个扩展
+            </div>
+        </div>
+
+        <div class="table-container">
+            <table id="extensionsTable">
+                <thead>
+                    <tr>
+                        <th data-sort="project">项目</th>
+                        <th data-sort="first_commit">首次提交</th>
+                        <th data-sort="last_commit" class="active desc">末次提交</th>
+                        <th data-sort="tags">标签</th>
+                        <th data-sort="description">描述</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                    <!-- Data will be inserted here -->
+                </tbody>
+            </table>
+        </div>
+
+        <div class="pagination">
+            <button id="prevPage" disabled>上一页</button>
+            <span id="pageInfo">第 1 页</span>
+            <button id="nextPage">下一页</button>
+            <select id="pageSize">
+                <option value="10">10 条/页</option>
+                <option value="25" selected>25 条/页</option>
+                <option value="50">50 条/页</option>
+                <option value="100">100 条/页</option>
+            </select>
+        </div>
+    </div>
+
+    <footer>
+        <p>数据更新时间: <span id="updateTime"></span> (北京时间)</p>
+        <p>
+            <a href="https://github.com/bright-angel/BApp" target="_blank">GitHub</a> |
+            <a href="LICENSE">MIT License</a> |
+            参考 <a href="https://github.com/Mr-xn/BurpSuite-collections" target="_blank" rel="noopener">BurpSuite-collections</a>
+        </p>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

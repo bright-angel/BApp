@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 问题讨论
+    url: https://github.com/bright-angel/BApp/discussions
+    about: 如有疑问或建议，欢迎在讨论区交流
+  - name: 📖 查看现有扩展
+    url: https://bright-angel.github.io/BApp/
+    about: 浏览已收录的 Burp Suite 扩展

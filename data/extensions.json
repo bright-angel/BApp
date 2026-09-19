@@ -1,0 +1,4358 @@
+[
+  {
+    "author": "PortSwigger",
+    "project": "jsonp-scanner-check",
+    "url": "https://github.com/PortSwigger/jsonp-scanner-check",
+    "first_commit": "2020-01-01",
+    "last_commit": "2026-09-19",
+    "tags": "官方扩展,主动扫描",
+    "description": "Burp extension to check for JSONP endpoints"
+  },
+  {
+    "author": "intigriti",
+    "project": "iqs",
+    "url": "https://github.com/intigriti/iqs",
+    "first_commit": "2026-05-08",
+    "last_commit": "2026-09-18",
+    "tags": "API安全",
+    "description": "Intigriti Quick Scope (IQS) is a new Burp Suite extension that allows researchers to automate project and scope setup within Burp Suite by pulling data directly from the official Intigriti Researcher API."
+  },
+  {
+    "author": "factionsecurity",
+    "project": "Faction-Burp",
+    "url": "https://github.com/factionsecurity/Faction-Burp",
+    "first_commit": "2016-04-29",
+    "last_commit": "2026-09-17",
+    "tags": "Burp扩展",
+    "description": "The Faction Burp Suite Extension"
+  },
+  {
+    "author": "CompassSecurity",
+    "project": "jwt-scanner",
+    "url": "https://github.com/CompassSecurity/jwt-scanner",
+    "first_commit": "2023-04-04",
+    "last_commit": "2026-09-17",
+    "tags": "主动扫描",
+    "description": "JWT-scanner Burp Extension"
+  },
+  {
+    "author": "Cy-S3c",
+    "project": "BurpMCP-Ultra",
+    "url": "https://github.com/Cy-S3c/BurpMCP-Ultra",
+    "first_commit": "2026-04-03",
+    "last_commit": "2026-09-16",
+    "tags": "AI集成,MCP协议,多模型支持,高性能",
+    "description": "高性能MCP扩展框架，支持多模型AI集成和自动化测试"
+  },
+  {
+    "author": "sleeyax",
+    "project": "burp-awesome-tls",
+    "url": "https://github.com/sleeyax/burp-awesome-tls",
+    "first_commit": "2022-01-23",
+    "last_commit": "2026-09-15",
+    "tags": "TLS修复,指纹伪造,绕过技术",
+    "description": "修复TLS栈并伪造浏览器指纹"
+  },
+  {
+    "author": "projectdiscovery",
+    "project": "nuclei-burp-plugin",
+    "url": "https://github.com/projectdiscovery/nuclei-burp-plugin",
+    "first_commit": "2022-01-17",
+    "last_commit": "2026-09-15",
+    "tags": "Burp扩展",
+    "description": "Nuclei plugin for BurpSuite"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "extension-portal",
+    "url": "https://github.com/PortSwigger/extension-portal",
+    "first_commit": "2025-06-26",
+    "last_commit": "2026-09-09",
+    "tags": "官方扩展",
+    "description": "Submit Burp Suite extensions and updates to the BApp Store."
+  },
+  {
+    "author": "ngduyquockhanh",
+    "project": "JScriptor",
+    "url": "https://github.com/ngduyquockhanh/JScriptor",
+    "first_commit": "2023-08-09",
+    "last_commit": "2026-09-07",
+    "tags": "Burp扩展",
+    "description": "Pre-Script and Post-Script like Postman extension for Burpsuite"
+  },
+  {
+    "author": "DolphFlynn",
+    "project": "jwt-editor",
+    "url": "https://github.com/DolphFlynn/jwt-editor",
+    "first_commit": "2021-09-07",
+    "last_commit": "2026-09-04",
+    "tags": "AI集成,加密解密,功能增强",
+    "description": "A Burp Suite extension for creating and editing JSON Web Tokens. This tool supports signing and verification of JWS, encryption and decryption of JWE and automation of several well-known attacks against applications that consume JWT."
+  },
+  {
+    "author": "intrudir",
+    "project": "BypassFuzzer-Burp",
+    "url": "https://github.com/intrudir/BypassFuzzer-Burp",
+    "first_commit": "2026-01-21",
+    "last_commit": "2026-09-03",
+    "tags": "绕过测试,403绕过,URL验证",
+    "description": "401/403绕过和URL验证绕过测试工具"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "enterprise-helm-charts",
+    "url": "https://github.com/PortSwigger/enterprise-helm-charts",
+    "first_commit": "2023-10-13",
+    "last_commit": "2026-09-03",
+    "tags": "官方扩展",
+    "description": "Helm charts for Burp Suite DAST Kubernetes installation."
+  },
+  {
+    "author": "codedx",
+    "project": "burp-extension",
+    "url": "https://github.com/codedx/burp-extension",
+    "first_commit": "2016-06-03",
+    "last_commit": "2026-09-02",
+    "tags": "Burp扩展",
+    "description": "Burp Suite plugin to send data to Code Dx software vulnerability management system"
+  },
+  {
+    "author": "levoai",
+    "project": "levoai-burp-extension",
+    "url": "https://github.com/levoai/levoai-burp-extension",
+    "first_commit": "2022-10-22",
+    "last_commit": "2026-09-02",
+    "tags": "AI集成,被动扫描,API安全",
+    "description": "Build OpenApi specs for your APIs from Burp's traffic using Levo.ai. Also detect the PII in your APIs."
+  },
+  {
+    "author": "Xre0uS",
+    "project": "Stepper-NG",
+    "url": "https://github.com/Xre0uS/Stepper-NG",
+    "first_commit": "2019-03-06",
+    "last_commit": "2026-09-01",
+    "tags": "功能增强",
+    "description": "A natural evolution of a evolution of Burp Suite's Repeater tool "
+  },
+  {
+    "author": "rawatprince",
+    "project": "SpecOps",
+    "url": "https://github.com/rawatprince/SpecOps",
+    "first_commit": "2025-08-26",
+    "last_commit": "2026-08-31",
+    "tags": "AI集成,API安全",
+    "description": "SpecOps is a Burp Suite extension that ingests an OpenAPI or Swagger spec and instantly builds a workbench to test every documented endpoint. Available in the official BApp Store - install it directly from inside Burp Suite."
+  },
+  {
+    "author": "roidrage52",
+    "project": "Permitter",
+    "url": "https://github.com/roidrage52/Permitter",
+    "first_commit": "2025-08-31",
+    "last_commit": "2026-08-27",
+    "tags": "权限测试,流量处理",
+    "description": "Permiter is a Burp Suite Extension that automatically tests for Authorization issues using either your proxy history or site map"
+  },
+  {
+    "author": "kN6jq",
+    "project": "gatherBurp",
+    "url": "https://github.com/kN6jq/gatherBurp",
+    "first_commit": "2023-07-17",
+    "last_commit": "2026-08-26",
+    "tags": "综合扫描,fastjson检测,越权检测,SQL注入,Log4j检测",
+    "description": "集成fastjson、权限绕过、未授权访问、SQL注入、Log4j等多种漏洞扫描"
+  },
+  {
+    "author": "bugcrowd",
+    "project": "HUNT",
+    "url": "https://github.com/bugcrowd/HUNT",
+    "first_commit": "2017-03-13",
+    "last_commit": "2026-08-26",
+    "tags": "Burp扩展",
+    "description": ""
+  },
+  {
+    "author": "PortSwigger",
+    "project": "BChecks",
+    "url": "https://github.com/PortSwigger/BChecks",
+    "first_commit": "2023-04-26",
+    "last_commit": "2026-08-25",
+    "tags": "官方扩展",
+    "description": "BChecks collection for Burp Suite Professional and Burp Suite DAST"
+  },
+  {
+    "author": "rootdr-backup",
+    "project": "TokenTwin-Checker",
+    "url": "https://github.com/rootdr-backup/TokenTwin-Checker",
+    "first_commit": "2026-06-17",
+    "last_commit": "2026-08-24",
+    "tags": "权限测试,BAC检测,IDOR检测,自动化",
+    "description": "自动化权限测试工具，检测BAC、IDOR和水平越权漏洞"
+  },
+  {
+    "author": "outlaws-bai",
+    "project": "Galaxy",
+    "url": "https://github.com/outlaws-bai/Galaxy",
+    "first_commit": "2024-06-21",
+    "last_commit": "2026-08-24",
+    "tags": "加密解密,流量解析,主动扫描",
+    "description": "在全加密/签名HTTP场景中查看、编辑和扫描明文数据"
+  },
+  {
+    "author": "gh0stkey",
+    "project": "HaE",
+    "url": "https://github.com/gh0stkey/HaE",
+    "first_commit": "2020-03-24",
+    "last_commit": "2026-08-21",
+    "tags": "信息高亮,信息提取",
+    "description": "信息高亮和提取工具"
+  },
+  {
+    "author": "overspace-labs",
+    "project": "HaE",
+    "url": "https://github.com/overspace-labs/HaE",
+    "first_commit": "2020-03-24",
+    "last_commit": "2026-08-21",
+    "tags": "Burp扩展",
+    "description": "HaE - Highlighter and Extractor, Empower ethical hacker for efficient operations. 赋能白帽，高效作战！"
+  },
+  {
+    "author": "marduc812",
+    "project": "BurpSuiteHistoryExplorer",
+    "url": "https://github.com/marduc812/BurpSuiteHistoryExplorer",
+    "first_commit": "2023-10-08",
+    "last_commit": "2026-08-19",
+    "tags": "Burp扩展",
+    "description": "Simple extension to filter search results per host"
+  },
+  {
+    "author": "anvilsecure",
+    "project": "bytebanter-burpai",
+    "url": "https://github.com/anvilsecure/bytebanter-burpai",
+    "first_commit": "2025-11-04",
+    "last_commit": "2026-08-19",
+    "tags": "AI集成,功能增强",
+    "description": "ByteBanter is a Burp Suite extension that leverages LLM to generate intelligent and context-aware payloads for Burp Intruder. By integrating LLM capabilities, ByteBanter enhances automated security testing by producing diverse and adaptive payloads tailored to specific testing scenarios."
+  },
+  {
+    "author": "turekt",
+    "project": "BurpHistory2Pcap",
+    "url": "https://github.com/turekt/BurpHistory2Pcap",
+    "first_commit": "2025-05-08",
+    "last_commit": "2026-08-17",
+    "tags": "流量处理,功能增强",
+    "description": "Burp extension that enables export of selected traffic in Burp HTTP History tab to a PCAP file."
+  },
+  {
+    "author": "Teycir",
+    "project": "BurpAPISecuritySuite",
+    "url": "https://github.com/Teycir/BurpAPISecuritySuite",
+    "first_commit": "2025-12-30",
+    "last_commit": "2026-08-15",
+    "tags": "API安全,主动扫描,被动扫描,模糊测试,AI自动化",
+    "description": "专业级API安全测试扩展，集成侦察、分析、模糊测试和AI自动化功能"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "turbo-intruder",
+    "url": "https://github.com/PortSwigger/turbo-intruder",
+    "first_commit": "2018-03-15",
+    "last_commit": "2026-08-13",
+    "tags": "官方扩展,流量处理",
+    "description": "Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results."
+  },
+  {
+    "author": "PortSwigger",
+    "project": "mcp-server",
+    "url": "https://github.com/portswigger/mcp-server",
+    "first_commit": "2025-04-02",
+    "last_commit": "2026-08-12",
+    "tags": "官方扩展,AI集成,MCP协议,功能增强",
+    "description": "官方扩展，通过模型上下文协议(MCP)实现Burp Suite与AI客户端的集成"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "mcp-server",
+    "url": "https://github.com/PortSwigger/mcp-server",
+    "first_commit": "2025-04-02",
+    "last_commit": "2026-08-12",
+    "tags": "官方扩展,AI集成",
+    "description": "MCP Server for Burp"
+  },
+  {
+    "author": "snyk",
+    "project": "socketsleuth",
+    "url": "https://github.com/snyk/socketsleuth",
+    "first_commit": "2023-09-05",
+    "last_commit": "2026-08-10",
+    "tags": "Burp扩展",
+    "description": "Burp Extension to add additional functionality for pentesting websocket based applications "
+  },
+  {
+    "author": "omercnet",
+    "project": "BurpJDSer-ng",
+    "url": "https://github.com/omercnet/BurpJDSer-ng",
+    "first_commit": "2013-01-17",
+    "last_commit": "2026-08-10",
+    "tags": "Burp扩展",
+    "description": "BurpJDSer-ng"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "mcp-proxy",
+    "url": "https://github.com/PortSwigger/mcp-proxy",
+    "first_commit": "2025-04-02",
+    "last_commit": "2026-08-10",
+    "tags": "官方扩展,AI集成,流量处理",
+    "description": "SSE to Stdio MCP Proxy Server"
+  },
+  {
+    "author": "alexlauerman",
+    "project": "IncrementMePlease",
+    "url": "https://github.com/alexlauerman/IncrementMePlease",
+    "first_commit": "2016-10-31",
+    "last_commit": "2026-08-06",
+    "tags": "主动扫描,流量处理",
+    "description": "Burp extension to increment a parameter in each active scan request"
+  },
+  {
+    "author": "adeadfed",
+    "project": "PwnFox-For-Chromium",
+    "url": "https://github.com/adeadfed/PwnFox-For-Chromium",
+    "first_commit": "2024-09-13",
+    "last_commit": "2026-08-02",
+    "tags": "Burp扩展",
+    "description": "A BurpSuite extension that allows you to use Chromium with PwnFox"
+  },
+  {
+    "author": "pentesttoolscom",
+    "project": "pentest-tools-com-burp-suite-extension",
+    "url": "https://github.com/pentesttoolscom/pentest-tools-com-burp-suite-extension",
+    "first_commit": "2025-08-21",
+    "last_commit": "2026-07-31",
+    "tags": "功能增强",
+    "description": "Easily push Burp findings into your Pentest-Tools.com workspace."
+  },
+  {
+    "author": "Johnfire45",
+    "project": "UniReq",
+    "url": "https://github.com/Johnfire45/UniReq",
+    "first_commit": "2025-06-19",
+    "last_commit": "2026-07-24",
+    "tags": "流量处理",
+    "description": "Filters duplicate HTTP requests in Burp using method-path-body fingerprinting. Displays unique traffic with request/response viewer and stats."
+  },
+  {
+    "author": "irsdl",
+    "project": "BurpSuiteSharpenerEx",
+    "url": "https://github.com/irsdl/BurpSuiteSharpenerEx",
+    "first_commit": "2021-01-04",
+    "last_commit": "2026-07-21",
+    "tags": "功能增强,UI优化,快捷操作",
+    "description": "增强Repeater、Intruder、Proxy等工具的UI和交互体验"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "reverse-shell-receiver",
+    "url": "https://github.com/PortSwigger/reverse-shell-receiver",
+    "first_commit": "2025-09-08",
+    "last_commit": "2026-07-21",
+    "tags": "官方扩展,流量处理",
+    "description": "A Burp Suite extension for penetration testers that combines an HTTP webhook listener (OAST), an interactive reverse shell terminal, and a multi-platform payload generator — all within a single integrated tab."
+  },
+  {
+    "author": "Tsojan",
+    "project": "TsojanScan",
+    "url": "https://github.com/Tsojan/TsojanScan",
+    "first_commit": "2022-12-18",
+    "last_commit": "2026-07-20",
+    "tags": "综合扫描,漏洞检测,主动扫描",
+    "description": "集成化漏洞检测插件，支持多种漏洞类型"
+  },
+  {
+    "author": "albinowax",
+    "project": "ActiveScanPlusPlus",
+    "url": "https://github.com/albinowax/ActiveScanPlusPlus",
+    "first_commit": "2014-06-23",
+    "last_commit": "2026-07-20",
+    "tags": "Burp扩展",
+    "description": "ActiveScan++ Burp Suite Plugin"
+  },
+  {
+    "author": "TheArqsz",
+    "project": "interactsh-collaborator-rev",
+    "url": "https://github.com/TheArqsz/interactsh-collaborator-rev",
+    "first_commit": "2021-08-26",
+    "last_commit": "2026-07-19",
+    "tags": "Burp扩展",
+    "description": " Burpsuite plugin for Interact.sh "
+  },
+  {
+    "author": "CenturionInfoSec",
+    "project": "pstoken-burp-plugin",
+    "url": "https://github.com/CenturionInfoSec/pstoken-burp-plugin",
+    "first_commit": "2017-12-12",
+    "last_commit": "2026-07-18",
+    "tags": "Burp扩展",
+    "description": "Jython Burp Plugin for PS_TOKEN"
+  },
+  {
+    "author": "Mr-xn",
+    "project": "BurpHistory2Pcap",
+    "url": "https://github.com/Mr-xn/BurpHistory2Pcap",
+    "first_commit": "2026-07-17",
+    "last_commit": "2026-07-17",
+    "tags": "数据导出,流量分析,功能增强",
+    "description": "将HTTP历史记录导出为PCAP数据包，包含完整TCP会话"
+  },
+  {
+    "author": "deFr0ggy",
+    "project": "API-Collector",
+    "url": "https://github.com/deFr0ggy/API-Collector",
+    "first_commit": "2025-12-16",
+    "last_commit": "2026-07-17",
+    "tags": "主动扫描,API安全,功能增强",
+    "description": "APICollector is a comprehensive, open-source Burp Suite extension designed to supercharge your API security testing workflow. It bridges the gap between API development tools (Insomnia, Postman, OpenAPI) and Burp Suite's powerful security auditing capabilities."
+  },
+  {
+    "author": "TheArqsz",
+    "project": "BurpSuite-Gitleaks-Extension",
+    "url": "https://github.com/TheArqsz/BurpSuite-Gitleaks-Extension",
+    "first_commit": "2025-12-17",
+    "last_commit": "2026-07-16",
+    "tags": "Burp扩展",
+    "description": "Unofficial Gitleaks integration/extension for Burp Suite"
+  },
+  {
+    "author": "liam-portswigger",
+    "project": "burp-api-scanner",
+    "url": "https://github.com/liam-portswigger/burp-api-scanner",
+    "first_commit": "2026-03-27",
+    "last_commit": "2026-07-16",
+    "tags": "官方扩展,AI集成,主动扫描,被动扫描,API安全",
+    "description": "Burp Suite extension implementing OWASP API Security Top 10 (2023) coverage on the Montoya API — active + passive scan checks with optional Burp AI integration"
+  },
+  {
+    "author": "t0xodile",
+    "project": "crlf-powered-desync-scanner",
+    "url": "https://github.com/t0xodile/crlf-powered-desync-scanner",
+    "first_commit": "2024-10-14",
+    "last_commit": "2026-07-16",
+    "tags": "主动扫描",
+    "description": ""
+  },
+  {
+    "author": "PortSwigger",
+    "project": "burp-extensions-montoya-api",
+    "url": "https://github.com/PortSwigger/burp-extensions-montoya-api",
+    "first_commit": "2022-01-12",
+    "last_commit": "2026-07-14",
+    "tags": "官方扩展,API安全",
+    "description": "Burp Extensions Api"
+  },
+  {
+    "author": "j0lt-github",
+    "project": "mongobleedburp",
+    "url": "https://github.com/j0lt-github/mongobleedburp",
+    "first_commit": "2025-12-30",
+    "last_commit": "2026-07-14",
+    "tags": "被动扫描",
+    "description": "Burp Suite extension to detect CVE-2025-14847 (MongoBleed) via manual leak tests from a dedicated UI tab."
+  },
+  {
+    "author": "usdAG",
+    "project": "cstc",
+    "url": "https://github.com/usdAG/cstc",
+    "first_commit": "2019-07-09",
+    "last_commit": "2026-07-13",
+    "tags": "流量处理",
+    "description": "CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef "
+  },
+  {
+    "author": "F6JO",
+    "project": "RouteVulScan",
+    "url": "https://github.com/F6JO/RouteVulScan",
+    "first_commit": "2022-06-01",
+    "last_commit": "2026-07-10",
+    "tags": "被动检测,路径扫描,递归检测",
+    "description": "递归被动检测漏洞路径"
+  },
+  {
+    "author": "code5ecure",
+    "project": "CKEditor_Passive_scanner",
+    "url": "https://github.com/code5ecure/CKEditor_Passive_scanner",
+    "first_commit": "2025-12-30",
+    "last_commit": "2026-07-10",
+    "tags": "主动扫描,被动扫描,流量处理",
+    "description": "CKEditor Passive Scanner is a high-performance Burp Suite extension designed for security researchers. It automatically identifies CKEditor instances, extracts version numbers, and enumerates installed plugins from HTTP traffic without sending a single active request."
+  },
+  {
+    "author": "joelindra",
+    "project": "Logic-Mapper",
+    "url": "https://github.com/joelindra/Logic-Mapper",
+    "first_commit": "2025-11-14",
+    "last_commit": "2026-07-09",
+    "tags": "流量处理,功能增强",
+    "description": "Visual business logic flow mapper for Burp Suite. Helps security testers visualize and map complex request flows with interactive diagrams, automatic connections, notes, and JSON export/import capabilities."
+  },
+  {
+    "author": "roidrage52",
+    "project": "SWAPPER",
+    "url": "https://github.com/roidrage52/SWAPPER",
+    "first_commit": "2025-08-06",
+    "last_commit": "2026-07-01",
+    "tags": "Burp扩展",
+    "description": "Burp Suite Extension to match/replace with regex"
+  },
+  {
+    "author": "peter-hendy",
+    "project": "mcp-server-scanner-extension",
+    "url": "https://github.com/peter-hendy/mcp-server-scanner-extension",
+    "first_commit": "2026-06-19",
+    "last_commit": "2026-06-30",
+    "tags": "AI集成,主动扫描",
+    "description": ""
+  },
+  {
+    "author": "bit4woo",
+    "project": "knife",
+    "url": "https://github.com/bit4woo/knife",
+    "first_commit": "2018-06-12",
+    "last_commit": "2026-06-26",
+    "tags": "功能增强,右键菜单,U2C",
+    "description": "增强插件，支持右键菜单和U2C"
+  },
+  {
+    "author": "yuziiiiiiiiii",
+    "project": "SMS_Bomb_Fuzzer",
+    "url": "https://github.com/yuziiiiiiiiii/SMS_Bomb_Fuzzer",
+    "first_commit": "2025-03-06",
+    "last_commit": "2026-06-25",
+    "tags": "绕过测试,短信轰炸,模糊测试",
+    "description": "短信轰炸绕过辅助插件，支持多种绕过技巧"
+  },
+  {
+    "author": "bit4woo",
+    "project": "domain_hunter_pro",
+    "url": "https://github.com/bit4woo/domain_hunter_pro",
+    "first_commit": "2017-07-26",
+    "last_commit": "2026-06-23",
+    "tags": "域名收集,资产发现,高级版",
+    "description": "域名猎手专业版"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "bambdas",
+    "url": "https://github.com/PortSwigger/bambdas",
+    "first_commit": "2023-11-27",
+    "last_commit": "2026-06-16",
+    "tags": "官方扩展",
+    "description": "Bambdas collection for Burp Suite Professional and Community."
+  },
+  {
+    "author": "xz-zone",
+    "project": "burp_history",
+    "url": "https://github.com/xz-zone/burp_history",
+    "first_commit": "2025-12-16",
+    "last_commit": "2026-06-03",
+    "tags": "流量监控,团队协作,历史管理",
+    "description": "HTTP流量监控、管理和团队协作插件"
+  },
+  {
+    "author": "cloud-jie",
+    "project": "CloudX",
+    "url": "https://github.com/cloud-jie/CloudX",
+    "first_commit": "2025-05-25",
+    "last_commit": "2026-06-01",
+    "tags": "加密解密,规则引擎,流量处理",
+    "description": "基于规则的加密解密工具，支持自定义加解密规则"
+  },
+  {
+    "author": "t0xodile",
+    "project": "t0xodiles-cors-check",
+    "url": "https://github.com/t0xodile/t0xodiles-cors-check",
+    "first_commit": "2024-09-05",
+    "last_commit": "2026-05-31",
+    "tags": "AI集成,主动扫描",
+    "description": "Permissive cors scanner using trusted domains"
+  },
+  {
+    "author": "QIntegration",
+    "project": "burp-extension-for-was",
+    "url": "https://github.com/QIntegration/burp-extension-for-was",
+    "first_commit": "2018-07-30",
+    "last_commit": "2026-05-29",
+    "tags": "Burp扩展",
+    "description": "Qualys' Burp Extension for WAS"
+  },
+  {
+    "author": "volkandindar",
+    "project": "agartha",
+    "url": "https://github.com/volkandindar/agartha",
+    "first_commit": "2022-01-08",
+    "last_commit": "2026-05-28",
+    "tags": "SQL注入,XSS检测,权限测试,流量处理,功能增强",
+    "description": "A Burp Suite extension for identifying injection flaws (LFI, RCE, SQLi), authentication/authorization issues, and HTTP 403 access violations. It supports dynamic payload generation, including BCheck syntax, and can automatically generate Bambdas scripts. Additionally, it offers \"Copy as JavaScript\" to convert HTTP requests for enhanced XSS testing."
+  },
+  {
+    "author": "gh0stkey",
+    "project": "CaA",
+    "url": "https://github.com/gh0stkey/CaA",
+    "first_commit": "2021-11-09",
+    "last_commit": "2026-05-25",
+    "tags": "信息收集,参数收集,路径分析",
+    "description": "从流量中收集参数和路径用于分析"
+  },
+  {
+    "author": "jondmarien",
+    "project": "Burpcord",
+    "url": "https://github.com/jondmarien/Burpcord",
+    "first_commit": "2023-05-17",
+    "last_commit": "2026-05-21",
+    "tags": "Burp扩展",
+    "description": "A BurpSuite extension for discord rich presence"
+  },
+  {
+    "author": "electro0nes",
+    "project": "copy_as_x8_command",
+    "url": "https://github.com/electro0nes/copy_as_x8_command",
+    "first_commit": "2025-12-09",
+    "last_commit": "2026-05-19",
+    "tags": "Burp扩展",
+    "description": "Burp Suite extensions x8 copy as command "
+  },
+  {
+    "author": "PortSwigger",
+    "project": "extension-template-project",
+    "url": "https://github.com/PortSwigger/extension-template-project",
+    "first_commit": "2025-03-03",
+    "last_commit": "2026-05-13",
+    "tags": "官方扩展,AI集成",
+    "description": "Contains a ready-to-use extension template to help you start writing your extension immediately."
+  },
+  {
+    "author": "gaberust",
+    "project": "burp-asset-saver",
+    "url": "https://github.com/gaberust/burp-asset-saver",
+    "first_commit": "2024-03-25",
+    "last_commit": "2026-05-12",
+    "tags": "Burp扩展",
+    "description": "Burp Suite extension for saving previously loaded assets"
+  },
+  {
+    "author": "TD0U",
+    "project": "SqlScout",
+    "url": "https://github.com/TD0U/SqlScout",
+    "first_commit": "2026-05-06",
+    "last_commit": "2026-05-09",
+    "tags": "SQL注入,参数处理,漏洞检测",
+    "description": "SQL注入辅助工具，支持复杂参数处理"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "burp-extensions-montoya-api-examples",
+    "url": "https://github.com/PortSwigger/burp-extensions-montoya-api-examples",
+    "first_commit": "2022-12-28",
+    "last_commit": "2026-05-01",
+    "tags": "官方扩展,API安全",
+    "description": "Examples for using the Montoya API with Burp Suite"
+  },
+  {
+    "author": "migue27au",
+    "project": "psd2-redsys-burp-extension",
+    "url": "https://github.com/migue27au/psd2-redsys-burp-extension",
+    "first_commit": "2025-09-16",
+    "last_commit": "2026-04-30",
+    "tags": "API安全",
+    "description": "Extensión de Burp Suite para gestionar automáticamente la firma de peticiones a la API de PSD2 / Redsys"
+  },
+  {
+    "author": "Axyanzzzz",
+    "project": "TongWebEJBScan-Burp",
+    "url": "https://github.com/Axyanzzzz/TongWebEJBScan-Burp",
+    "first_commit": "2026-04-24",
+    "last_commit": "2026-04-26",
+    "tags": "被动扫描,TongWeb,反序列化",
+    "description": "TongWeb EJB反序列化被动扫描器"
+  },
+  {
+    "author": "Bort-Millipede",
+    "project": "Burp_JSON_Unicode-Escaper",
+    "url": "https://github.com/Bort-Millipede/Burp_JSON_Unicode-Escaper",
+    "first_commit": "2024-09-15",
+    "last_commit": "2026-04-26",
+    "tags": "API安全",
+    "description": "Burp Extender providing JSON Unicode-escaping/unescaping capabilities"
+  },
+  {
+    "author": "cyal1",
+    "project": "PyBurp",
+    "url": "https://github.com/cyal1/PyBurp",
+    "first_commit": "2023-06-23",
+    "last_commit": "2026-04-24",
+    "tags": "主动扫描,被动扫描,API安全,流量处理",
+    "description": "PyBurp is a Burp Suite extension that provides predefined Python functions for HTTP/WebSocket traffic modification, context menu registration, Intruder payload processing, passive/active scanning, and Collaborator interaction. You can also directly access Montoya API in your Python scripts."
+  },
+  {
+    "author": "C0DEbrained",
+    "project": "Stepper",
+    "url": "https://github.com/C0DEbrained/Stepper",
+    "first_commit": "2019-03-06",
+    "last_commit": "2026-04-15",
+    "tags": "功能增强",
+    "description": "A natural evolution of Burp Suite's Repeater tool"
+  },
+  {
+    "author": "f0ng",
+    "project": "autoDecoder",
+    "url": "https://github.com/f0ng/autoDecoder",
+    "first_commit": "2022-03-26",
+    "last_commit": "2026-04-14",
+    "tags": "加密解密,数据包处理,爆破工具",
+    "description": "自定义数据包处理，支持加密解密和爆破"
+  },
+  {
+    "author": "ZackSecurity",
+    "project": "Zack-AI-Scanner",
+    "url": "https://github.com/ZackSecurity/Zack-AI-Scanner",
+    "first_commit": "2026-04-13",
+    "last_commit": "2026-04-13",
+    "tags": "AI扫描,LLM驱动,主动扫描,漏洞检测,自动化报告",
+    "description": "基于大语言模型的自动化Web漏洞扫描器，支持AI扫描和智能报告"
+  },
+  {
+    "author": "fabianbinna",
+    "project": "host_header_inchecktion",
+    "url": "https://github.com/fabianbinna/host_header_inchecktion",
+    "first_commit": "2022-07-31",
+    "last_commit": "2026-04-13",
+    "tags": "SQL注入",
+    "description": "A burp extention to find host header injection vulnerabilities"
+  },
+  {
+    "author": "bright-angel",
+    "project": "BurpCryptoHook",
+    "url": "https://github.com/bright-angel/BurpCryptoHook",
+    "first_commit": "2026-04-07",
+    "last_commit": "2026-04-07",
+    "tags": "加密解密",
+    "description": "一个面向 HTTP 加密流量的 Burp Suite 插件，通过编写加解密脚本实现自动化解密/加密 HTTP 请求与响应。"
+  },
+  {
+    "author": "ahanel13",
+    "project": "Firewall-Ferret",
+    "url": "https://github.com/ahanel13/Firewall-Ferret",
+    "first_commit": "2024-07-23",
+    "last_commit": "2026-04-04",
+    "tags": "AI集成,主动扫描,API安全,WAF绕过,流量处理",
+    "description": "This java project was created with Portswigger's Montoya API to be a Burp Extension. It's well known that WAFs only scan up to a certain amount of data per request. This extension allows a tester to manually insert junk data and adds junk data to Active Scans by duplicating each scan check."
+  },
+  {
+    "author": "synacktiv",
+    "project": "HopLa",
+    "url": "https://github.com/synacktiv/HopLa",
+    "first_commit": "2021-05-06",
+    "last_commit": "2026-04-01",
+    "tags": "AI集成",
+    "description": " HopLa Burp Suite Extender plugin -  Brings AI capabilities, autocompletion support, and a set of useful payloads to Burp Suite"
+  },
+  {
+    "author": "darkfiv",
+    "project": "DouSql",
+    "url": "https://github.com/darkfiv/DouSql",
+    "first_commit": "2025-12-25",
+    "last_commit": "2026-03-31",
+    "tags": "SQL注入,漏洞检测,主动扫描",
+    "description": "基于Xia Sql的SQL注入检测工具"
+  },
+  {
+    "author": "MohamedXploit",
+    "project": "HeaderChangeNotifier",
+    "url": "https://github.com/MohamedXploit/HeaderChangeNotifier",
+    "first_commit": "2025-08-05",
+    "last_commit": "2026-03-30",
+    "tags": "被动扫描,流量处理,功能增强",
+    "description": "Header Change Notifier is a Burp Suite extension that monitors and alerts when HTTP response headers change for the same URL. Ideal for security testers and bug bounty hunters to detect CSP, CORS, cookie, and other security policy changes, with customizable tracking and export features."
+  },
+  {
+    "author": "Quitten",
+    "project": "Autorize",
+    "url": "https://github.com/Quitten/Autorize",
+    "first_commit": "2015-02-13",
+    "last_commit": "2026-03-21",
+    "tags": "被动扫描,权限测试",
+    "description": "Automatic authorization enforcement detection extension for burp suite written in Jython developed by Barak Tawily in order to ease application security people work and allow them perform an automatic authorization tests"
+  },
+  {
+    "author": "cyllective",
+    "project": "Quick-Update-Headers",
+    "url": "https://github.com/cyllective/Quick-Update-Headers",
+    "first_commit": "2025-09-11",
+    "last_commit": "2026-03-20",
+    "tags": "流量处理",
+    "description": "This Burp extension lets you quickly update the headers of a request inside a Repeater or Intruder tab to newer headers from the same host using the context menu"
+  },
+  {
+    "author": "y0k4i-1337",
+    "project": "copy-as-python-aiohttp",
+    "url": "https://github.com/y0k4i-1337/copy-as-python-aiohttp",
+    "first_commit": "2024-05-10",
+    "last_commit": "2026-03-06",
+    "tags": "AI集成,流量处理",
+    "description": "Copy as aiohttp extension for Burp Suite"
+  },
+  {
+    "author": "isacaya",
+    "project": "PacketPurifier",
+    "url": "https://github.com/isacaya/PacketPurifier",
+    "first_commit": "2025-09-01",
+    "last_commit": "2026-02-28",
+    "tags": "流量处理",
+    "description": "A Burp Suite extension that identifies elements in request packet that may affect the service"
+  },
+  {
+    "author": "saoshao",
+    "project": "DetSql",
+    "url": "https://github.com/saoshao/DetSql",
+    "first_commit": "2024-09-03",
+    "last_commit": "2026-02-26",
+    "tags": "SQL注入,快速检测,标记工具",
+    "description": "快速SQL注入请求检测和标记工具"
+  },
+  {
+    "author": "earth11411",
+    "project": "AuthMatrix",
+    "url": "https://github.com/earth11411/AuthMatrix",
+    "first_commit": "2016-01-12",
+    "last_commit": "2026-02-24",
+    "tags": "权限检测,IDOR检测,越权测试",
+    "description": "通过矩阵化测试检测HTTP请求中的IDOR和权限漏洞"
+  },
+  {
+    "author": "CompassSecurity",
+    "project": "SAMLRaider",
+    "url": "https://github.com/CompassSecurity/SAMLRaider",
+    "first_commit": "2015-07-22",
+    "last_commit": "2026-02-24",
+    "tags": "AI集成",
+    "description": "SAML2 Burp Extension"
+  },
+  {
+    "author": "RhinoSecurityLabs",
+    "project": "IPRotate_Burp_Extension",
+    "url": "https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension",
+    "first_commit": "2019-07-31",
+    "last_commit": "2026-02-23",
+    "tags": "API安全,流量处理",
+    "description": "Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request."
+  },
+  {
+    "author": "doyensec",
+    "project": "inql",
+    "url": "https://github.com/doyensec/inql",
+    "first_commit": "2018-04-20",
+    "last_commit": "2026-02-16",
+    "tags": "被动扫描,API安全",
+    "description": "InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration."
+  },
+  {
+    "author": "t0xodile",
+    "project": "burp-to-discord",
+    "url": "https://github.com/t0xodile/burp-to-discord",
+    "first_commit": "2025-06-01",
+    "last_commit": "2026-02-15",
+    "tags": "Burp扩展",
+    "description": ""
+  },
+  {
+    "author": "CompassSecurity",
+    "project": "burp-copy-request-response",
+    "url": "https://github.com/CompassSecurity/burp-copy-request-response",
+    "first_commit": "2020-10-02",
+    "last_commit": "2026-02-12",
+    "tags": "流量处理",
+    "description": "Burp extension for quickly copying request/response data."
+  },
+  {
+    "author": "0xceba",
+    "project": "burp_variables",
+    "url": "https://github.com/0xceba/burp_variables",
+    "first_commit": "2024-03-16",
+    "last_commit": "2026-02-10",
+    "tags": "变量管理,功能增强,自动化",
+    "description": "在Burp各工具中定义和使用变量"
+  },
+  {
+    "author": "Vicl1fe",
+    "project": "HackTools",
+    "url": "https://github.com/Vicl1fe/HackTools",
+    "first_commit": "2023-10-12",
+    "last_commit": "2026-02-05",
+    "tags": "编码解码,加密解密,杀软查询,文本处理",
+    "description": "编码、加密解密、杀软查询、文本处理工具集"
+  },
+  {
+    "author": "NonManuall",
+    "project": "SAVER_LOGGER",
+    "url": "https://github.com/NonManuall/SAVER_LOGGER",
+    "first_commit": "2025-07-03",
+    "last_commit": "2026-01-28",
+    "tags": "主动扫描,权限测试,流量处理,功能增强",
+    "description": "SAVER_LOGGER is a professional-grade Burp Suite extension that logs every HTTP request sent from all Burp tools (Proxy, Repeater, Scanner, Intruder, etc.). It captures complete metadata for each interaction and provides automatic or manual CSV export with verifiable proof of authenticity."
+  },
+  {
+    "author": "Sugobet",
+    "project": "API_Sword",
+    "url": "https://github.com/Sugobet/API_Sword",
+    "first_commit": "2025-08-07",
+    "last_commit": "2026-01-20",
+    "tags": "API安全,流量处理",
+    "description": "NSFOCUS API_Sword：A Burp Suite extension, Automatically recursively collect API endpoints from any response"
+  },
+  {
+    "author": "sule01u",
+    "project": "AutorizePro",
+    "url": "https://github.com/sule01u/AutorizePro",
+    "first_commit": "2024-10-19",
+    "last_commit": "2026-01-18",
+    "tags": "权限绕过,越权检测,AI分析,主动扫描",
+    "description": "带AI分析模块的权限绕过检测工具，自动检测垂直/水平越权"
+  },
+  {
+    "author": "pentagridsec",
+    "project": "PentagridResponseOverview",
+    "url": "https://github.com/pentagridsec/PentagridResponseOverview",
+    "first_commit": "2021-11-02",
+    "last_commit": "2026-01-16",
+    "tags": "流量处理",
+    "description": "Response Overview Extension for BurpSuite - Find exotic responses by grouping response bodies"
+  },
+  {
+    "author": "silentsignal",
+    "project": "burp-piper",
+    "url": "https://github.com/silentsignal/burp-piper",
+    "first_commit": "2018-12-17",
+    "last_commit": "2026-01-14",
+    "tags": "Burp扩展",
+    "description": "Piper Burp Suite Extender plugin"
+  },
+  {
+    "author": "omkaryepre",
+    "project": "API_Workflow_Manager",
+    "url": "https://github.com/omkaryepre/API_Workflow_Manager",
+    "first_commit": "2025-05-21",
+    "last_commit": "2026-01-14",
+    "tags": "API安全,流量处理,功能增强",
+    "description": "API & Workflow Manager is a Burp Suite extension that provides centralized management and organization for API endpoints during security testing. It allows security professionals to collect, categorize, and export HTTP requests with workflow labels, enabling structured testing methodologies and comprehensive documentation through exports"
+  },
+  {
+    "author": "Anof-cyber",
+    "project": "PyCript",
+    "url": "https://github.com/Anof-cyber/PyCript",
+    "first_commit": "2023-01-25",
+    "last_commit": "2026-01-09",
+    "tags": "加密解密",
+    "description": "Burp Suite extension to decrypt/encrypt any encrypted traffic (AES/RSA/Encodings and more) with custom code in any language "
+  },
+  {
+    "author": "xnl-h4ck3r",
+    "project": "GAP-Burp-Extension",
+    "url": "https://github.com/xnl-h4ck3r/GAP-Burp-Extension",
+    "first_commit": "2021-05-20",
+    "last_commit": "2026-01-08",
+    "tags": "Burp扩展",
+    "description": "Burp Extension to find potential endpoints, parameters, and generate a custom target wordlist"
+  },
+  {
+    "author": "LazyTitan33",
+    "project": "DNS-Exfilnspector",
+    "url": "https://github.com/LazyTitan33/DNS-Exfilnspector",
+    "first_commit": "2023-11-02",
+    "last_commit": "2026-01-07",
+    "tags": "Burp扩展",
+    "description": "Automagically decode DNS Exfiltration queries to convert Blind RCE into proper RCE via Burp Collaborator"
+  },
+  {
+    "author": "ozzi-",
+    "project": "JWT4B",
+    "url": "https://github.com/ozzi-/JWT4B",
+    "first_commit": "2017-01-27",
+    "last_commit": "2026-01-06",
+    "tags": "Burp扩展",
+    "description": "JWT Support for Burp "
+  },
+  {
+    "author": "Anof-cyber",
+    "project": "PyCript-WebSocket",
+    "url": "https://github.com/Anof-cyber/PyCript-WebSocket",
+    "first_commit": "2025-02-14",
+    "last_commit": "2025-12-29",
+    "tags": "AI集成,流量处理",
+    "description": "PyCript Websocket is now merge into https://github.com/Anof-cyber/PyCript, this repo is not available anymore."
+  },
+  {
+    "author": "nayangoel",
+    "project": "AIGraphqlPentester",
+    "url": "https://github.com/nayangoel/AIGraphqlPentester",
+    "first_commit": "2025-08-27",
+    "last_commit": "2025-12-19",
+    "tags": "AI集成,被动扫描,权限测试,API安全",
+    "description": "A comprehensive Burp Suite extension that leverages Burp's native Montoya AI to generate sophisticated malicious GraphQL test queries for authorized security testing. Features dynamic AI status monitoring, schema introspection, RAG integration, and intelligent query formatting."
+  },
+  {
+    "author": "ngit-tm",
+    "project": "Burp-Window-Title-Controller",
+    "url": "https://github.com/ngit-tm/Burp-Window-Title-Controller",
+    "first_commit": "2024-12-23",
+    "last_commit": "2025-12-18",
+    "tags": "API安全",
+    "description": "Toggle the license suffix, set a custom window title, and restore the original Burp title with ease."
+  },
+  {
+    "author": "hackvertor",
+    "project": "auto-vader",
+    "url": "https://github.com/hackvertor/auto-vader",
+    "first_commit": "2025-09-29",
+    "last_commit": "2025-12-11",
+    "tags": "Burp扩展",
+    "description": "An extension to automate using DOM Invader from within Burp"
+  },
+  {
+    "author": "JoeBlackSecurity",
+    "project": "Session_Keeper",
+    "url": "https://github.com/JoeBlackSecurity/Session_Keeper",
+    "first_commit": "2025-07-16",
+    "last_commit": "2025-12-10",
+    "tags": "AI集成",
+    "description": "Easily maintain your current session in Burp "
+  },
+  {
+    "author": "slicingmelon",
+    "project": "burp-proxy-rotate",
+    "url": "https://github.com/slicingmelon/burp-proxy-rotate",
+    "first_commit": "2025-04-16",
+    "last_commit": "2025-12-09",
+    "tags": "流量处理",
+    "description": ""
+  },
+  {
+    "author": "augustd",
+    "project": "burp-suite-paste-curl",
+    "url": "https://github.com/augustd/burp-suite-paste-curl",
+    "first_commit": "2024-03-02",
+    "last_commit": "2025-12-04",
+    "tags": "流量处理",
+    "description": "A Burp Suite extension to allow pasting cURL commands as raw HTTP requests in a new tab in Repeater."
+  },
+  {
+    "author": "Fcvebf",
+    "project": "ExporterBurpSuiteExtension",
+    "url": "https://github.com/Fcvebf/ExporterBurpSuiteExtension",
+    "first_commit": "2025-05-21",
+    "last_commit": "2025-11-17",
+    "tags": "功能增强",
+    "description": "This Burp Suite extension allows the user to upload the identified security issues directly to Pwndoc or export them in various document formats."
+  },
+  {
+    "author": "irsdl",
+    "project": "auraditor",
+    "url": "https://github.com/irsdl/auraditor",
+    "first_commit": "2025-09-20",
+    "last_commit": "2025-11-17",
+    "tags": "主动扫描",
+    "description": "A Burp Suite extension for Lightning/Aura framework security testing with advanced action management, context editing, and comprehensive audit capabilities."
+  },
+  {
+    "author": "hackvertor",
+    "project": "shadow-repeater",
+    "url": "https://github.com/hackvertor/shadow-repeater",
+    "first_commit": "2025-02-11",
+    "last_commit": "2025-11-15",
+    "tags": "Burp扩展",
+    "description": ""
+  },
+  {
+    "author": "Dotwut",
+    "project": "AWSCurlBurpExtension",
+    "url": "https://github.com/Dotwut/AWSCurlBurpExtension",
+    "first_commit": "2025-04-02",
+    "last_commit": "2025-11-07",
+    "tags": "API安全",
+    "description": "Burp Extension to create AWS Curl  and cURL with SigV4 commands from an API"
+  },
+  {
+    "author": "federicodotta",
+    "project": "Brida",
+    "url": "https://github.com/federicodotta/Brida",
+    "first_commit": "2017-07-28",
+    "last_commit": "2025-10-30",
+    "tags": "Burp扩展",
+    "description": "The new bridge between Burp Suite and Frida!"
+  },
+  {
+    "author": "ilmila",
+    "project": "J2EEScan",
+    "url": "https://github.com/ilmila/J2EEScan",
+    "first_commit": "2015-04-01",
+    "last_commit": "2025-10-29",
+    "tags": "J2EE扫描,漏洞检测",
+    "description": "J2EE程序扫描器"
+  },
+  {
+    "author": "CyberCX-STA",
+    "project": "cmar",
+    "url": "https://github.com/CyberCX-STA/cmar",
+    "first_commit": "2023-04-27",
+    "last_commit": "2025-10-22",
+    "tags": "Burp扩展",
+    "description": "Burp Plugin - Conditional Match and Replace (CMAR)"
+  },
+  {
+    "author": "softwaresecured",
+    "project": "burp-magicvars",
+    "url": "https://github.com/softwaresecured/burp-magicvars",
+    "first_commit": "2025-03-03",
+    "last_commit": "2025-10-14",
+    "tags": "Burp扩展",
+    "description": "🪄 Magic variables is a Burp extension that provides helpful replacements in traffic such as random integers, random UUIDs and random strings."
+  },
+  {
+    "author": "softwaresecured",
+    "project": "burp-hotpatch",
+    "url": "https://github.com/softwaresecured/burp-hotpatch",
+    "first_commit": "2025-05-25",
+    "last_commit": "2025-10-14",
+    "tags": "Burp扩展",
+    "description": "Burp Hotpatch ️provides pentesters with a quick way to hook into key BurpSuite functions using user defined scripts."
+  },
+  {
+    "author": "samanL33T",
+    "project": "BubblePop",
+    "url": "https://github.com/samanL33T/BubblePop",
+    "first_commit": "2025-07-19",
+    "last_commit": "2025-10-11",
+    "tags": "加密解密",
+    "description": "BurpSuite  Extension for encrypting & decrypting bubble.io elasticsearch queries"
+  },
+  {
+    "author": "NetSPI",
+    "project": "BurpExtractor",
+    "url": "https://github.com/NetSPI/BurpExtractor",
+    "first_commit": "2018-02-27",
+    "last_commit": "2025-10-07",
+    "tags": "参数提取,数据重用",
+    "description": "从请求/响应中提取参数用于重用"
+  },
+  {
+    "author": "AI-Pentest",
+    "project": "BurpInlineDecoder",
+    "url": "https://github.com/AI-Pentest/BurpInlineDecoder",
+    "first_commit": "2025-08-20",
+    "last_commit": "2025-10-03",
+    "tags": "流量处理",
+    "description": "Burp Suite extension that automatically extracts and decodes values from HTTP responses into the Intruder Comment field."
+  },
+  {
+    "author": "vulnersCom",
+    "project": "burp-vulners-scanner",
+    "url": "https://github.com/vulnersCom/burp-vulners-scanner",
+    "first_commit": "2017-07-03",
+    "last_commit": "2025-10-01",
+    "tags": "漏洞扫描,Vulners数据库",
+    "description": "基于Vulners.com漏洞数据库的扫描器"
+  },
+  {
+    "author": "forteBruno",
+    "project": "Token-Tailor",
+    "url": "https://github.com/forteBruno/Token-Tailor",
+    "first_commit": "2024-11-04",
+    "last_commit": "2025-09-30",
+    "tags": "AI集成",
+    "description": "Token Tailor is a Burp Suite Community Edition extension that aims to simplify security testing by automating JWT renewal."
+  },
+  {
+    "author": "emano888",
+    "project": "burpfire",
+    "url": "https://github.com/emano888/burpfire",
+    "first_commit": "2025-06-22",
+    "last_commit": "2025-09-30",
+    "tags": "AI集成,流量处理,功能增强",
+    "description": "HTTP Batch Tool is a Burp Suite extension that lets you paste a list of URLs and send multiple HTTP requests in parallel. Ideal for penetration testing, reconnaissance, and endpoint validation."
+  },
+  {
+    "author": "dubey-amit",
+    "project": "curl-commander",
+    "url": "https://github.com/dubey-amit/curl-commander",
+    "first_commit": "2025-04-03",
+    "last_commit": "2025-09-29",
+    "tags": "流量处理",
+    "description": "Quickly converts curl commands into Burp Suite Repeater requests."
+  },
+  {
+    "author": "h4rithd",
+    "project": "CVSS-v3.1-Visual-Calculator-BApp",
+    "url": "https://github.com/h4rithd/CVSS-v3.1-Visual-Calculator-BApp",
+    "first_commit": "2025-06-25",
+    "last_commit": "2025-09-26",
+    "tags": "Burp扩展",
+    "description": "💡 Burp Suite extension for calculating and visualizing CVSS v3.1 scores with an interactive UI and risk meter - perfect for quick reporting."
+  },
+  {
+    "author": "e1abrador",
+    "project": "Burp_Match-Replace",
+    "url": "https://github.com/e1abrador/Burp_Match-Replace",
+    "first_commit": "2025-09-26",
+    "last_commit": "2025-09-26",
+    "tags": "Burp扩展",
+    "description": "Match&Replace for Repeater"
+  },
+  {
+    "author": "dr34mhacks",
+    "project": "formatify",
+    "url": "https://github.com/dr34mhacks/formatify",
+    "first_commit": "2025-03-12",
+    "last_commit": "2025-09-23",
+    "tags": "流量处理",
+    "description": "Formatify is a Burp Suite extension that instantly converts HTTP requests into multiple formats like cURL, Python, PowerShell, and more—saving time and streamlining your workflow. 🚀"
+  },
+  {
+    "author": "GangGreenTemperTatum",
+    "project": "linebreaker",
+    "url": "https://github.com/GangGreenTemperTatum/linebreaker",
+    "first_commit": "2025-02-08",
+    "last_commit": "2025-09-23",
+    "tags": "Burp扩展",
+    "description": "LineBreaker – A Burp Suite extension that automatically enables newline view by default, making payload analysis cleaner and more readable. No more manual toggling—just break lines and break apps!"
+  },
+  {
+    "author": "scho-d4n",
+    "project": "TickTockEnum-Burp-Extension",
+    "url": "https://github.com/scho-d4n/TickTockEnum-Burp-Extension",
+    "first_commit": "2025-04-25",
+    "last_commit": "2025-09-17",
+    "tags": "Burp扩展",
+    "description": "Time Based Enumeration Burp Extension"
+  },
+  {
+    "author": "yg-ht",
+    "project": "Burp-SourceMapper",
+    "url": "https://github.com/yg-ht/Burp-SourceMapper",
+    "first_commit": "2022-01-07",
+    "last_commit": "2025-09-14",
+    "tags": "Burp扩展",
+    "description": "Burpsuite extension for injecting offline source maps for easier JavaScript debugging"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "bypass-bot-detection",
+    "url": "https://github.com/PortSwigger/bypass-bot-detection",
+    "first_commit": "2024-07-25",
+    "last_commit": "2025-09-09",
+    "tags": "官方扩展,被动扫描,加密解密,WAF绕过",
+    "description": "Burp Suite extension that mutates ciphers to bypass TLS-fingerprint based bot detection"
+  },
+  {
+    "author": "GangGreenTemperTatum",
+    "project": "stickyburp",
+    "url": "https://github.com/GangGreenTemperTatum/stickyburp",
+    "first_commit": "2024-12-23",
+    "last_commit": "2025-09-08",
+    "tags": "API安全,功能增强",
+    "description": "A Productivity-Boosting Burp Suite extension written in Kotlin that enables persistent sticky session handling in web application testing. Built with the Montoya API and modern Kotlin tooling."
+  },
+  {
+    "author": "matrix",
+    "project": "Burp-JCryption-Handler",
+    "url": "https://github.com/matrix/Burp-JCryption-Handler",
+    "first_commit": "2017-07-01",
+    "last_commit": "2025-09-07",
+    "tags": "加密解密",
+    "description": "Burp Suite plugin useful to analyze Web Applications that using jCryption (Javascript HTML-Form encryption)"
+  },
+  {
+    "author": "matrix",
+    "project": "Burp-NoSQLiScanner",
+    "url": "https://github.com/matrix/Burp-NoSQLiScanner",
+    "first_commit": "2021-01-16",
+    "last_commit": "2025-09-07",
+    "tags": "主动扫描,SQL注入",
+    "description": "This extension provides a way to discover NoSQL injection vulnerabilities."
+  },
+  {
+    "author": "aress31",
+    "project": "google-authenticator",
+    "url": "https://github.com/aress31/google-authenticator",
+    "first_commit": "2018-05-29",
+    "last_commit": "2025-09-04",
+    "tags": "权限测试",
+    "description": "Burp Suite plugin that dynamically generates Google 2FA codes for use in session handling rules (approved by PortSwigger for inclusion in their official BApp Store)."
+  },
+  {
+    "author": "moha99sa",
+    "project": "AI_Prompt_Fuzzer",
+    "url": "https://github.com/moha99sa/AI_Prompt_Fuzzer",
+    "first_commit": "2024-11-02",
+    "last_commit": "2025-09-03",
+    "tags": "AI集成,SQL注入",
+    "description": "Burp extension to fuzz/brute force GenAI/LLM prompts for potential behvioural and Prompt Injection vulnerabilities."
+  },
+  {
+    "author": "CompassSecurity",
+    "project": "CollaboRaider",
+    "url": "https://github.com/CompassSecurity/CollaboRaider",
+    "first_commit": "2025-03-07",
+    "last_commit": "2025-08-29",
+    "tags": "AI集成",
+    "description": "An improved version of the CollaboratorEverywhere Burp extension "
+  },
+  {
+    "author": "softwaresecured",
+    "project": "burp-injector",
+    "url": "https://github.com/softwaresecured/burp-injector",
+    "first_commit": "2025-03-03",
+    "last_commit": "2025-08-29",
+    "tags": "Burp扩展",
+    "description": "💉 Burp Deep Data Injector is a BurpSuite extension that allows pentesters to define targets within non-standard locations such as encoded regions or serialized data."
+  },
+  {
+    "author": "f0ng",
+    "project": "captcha-killer-modified",
+    "url": "https://github.com/f0ng/captcha-killer-modified",
+    "first_commit": "2022-03-18",
+    "last_commit": "2025-08-26",
+    "tags": "验证码识别,dddocr,爆破辅助",
+    "description": "修改版captcha-killer，支持dddocr验证码识别"
+  },
+  {
+    "author": "luqmanhy",
+    "project": "burp-organizer-notes",
+    "url": "https://github.com/luqmanhy/burp-organizer-notes",
+    "first_commit": "2025-03-05",
+    "last_commit": "2025-08-22",
+    "tags": "Burp扩展",
+    "description": "A Burp Suite extension that helps streamline your pentesting workflow by making note-taking effortless"
+  },
+  {
+    "author": "anvilsecure",
+    "project": "aws-sigv4",
+    "url": "https://github.com/anvilsecure/aws-sigv4",
+    "first_commit": "2019-04-10",
+    "last_commit": "2025-08-20",
+    "tags": "流量处理",
+    "description": "Anvil Secure's Burp extension for signing AWS requests with SigV4"
+  },
+  {
+    "author": "winezer0",
+    "project": "passive-scan-client-plus",
+    "url": "https://github.com/winezer0/passive-scan-client-plus",
+    "first_commit": "2020-12-14",
+    "last_commit": "2025-08-16",
+    "tags": "被动扫描,流量转发,维护版本",
+    "description": "passive-scan-client的维护分支"
+  },
+  {
+    "author": "Redguard",
+    "project": "jwt-monitor",
+    "url": "https://github.com/Redguard/jwt-monitor",
+    "first_commit": "2025-02-18",
+    "last_commit": "2025-08-14",
+    "tags": "被动扫描,流量处理",
+    "description": "This Burp Suite extension monitors a provided JWT token for its expiration and replaces any already present JWT token in outgoing requests with the provided one"
+  },
+  {
+    "author": "ganesh2183",
+    "project": "OktaTOTPAuthenticator",
+    "url": "https://github.com/ganesh2183/OktaTOTPAuthenticator",
+    "first_commit": "2024-12-27",
+    "last_commit": "2025-08-08",
+    "tags": "权限测试",
+    "description": "Burp Suite plugin that dynamically generates Okta TOTP 2FA code for use in session handling rules "
+  },
+  {
+    "author": "StephenSantilli",
+    "project": "TOTP",
+    "url": "https://github.com/StephenSantilli/TOTP",
+    "first_commit": "2025-07-27",
+    "last_commit": "2025-08-05",
+    "tags": "Burp扩展",
+    "description": "A Burp Suite extension for generating and using time-based one-time passwords (TOTPs)"
+  },
+  {
+    "author": "d0ge",
+    "project": "WebSocketTurboIntruder",
+    "url": "https://github.com/d0ge/WebSocketTurboIntruder",
+    "first_commit": "2023-10-26",
+    "last_commit": "2025-08-04",
+    "tags": "Burp扩展",
+    "description": "Fuzz WebSockets with custom Python code"
+  },
+  {
+    "author": "nerdygenii",
+    "project": "postman-burp-importer",
+    "url": "https://github.com/nerdygenii/postman-burp-importer",
+    "first_commit": "2025-07-28",
+    "last_commit": "2025-08-01",
+    "tags": "Burp扩展",
+    "description": "A powerful Burp Suite extension that imports Postman collections"
+  },
+  {
+    "author": "ganesh2183",
+    "project": "TwilioOTPAuthenticate",
+    "url": "https://github.com/ganesh2183/TwilioOTPAuthenticate",
+    "first_commit": "2024-12-19",
+    "last_commit": "2025-07-29",
+    "tags": "权限测试,流量处理",
+    "description": "This extension utilizes session handling rules to provide a Twilio OTP code to outgoing requests, used in BurpSuite Pro"
+  },
+  {
+    "author": "RealestName",
+    "project": "PDF-Render",
+    "url": "https://github.com/RealestName/PDF-Render",
+    "first_commit": "2025-01-23",
+    "last_commit": "2025-07-26",
+    "tags": "流量处理",
+    "description": "BurpSuite extension that renders PDF files and allows viewing them in a custom tab in the response section inside the repeater"
+  },
+  {
+    "author": "Contrast-Security-OSS",
+    "project": "Burptrast",
+    "url": "https://github.com/Contrast-Security-OSS/Burptrast",
+    "first_commit": "2023-01-19",
+    "last_commit": "2025-07-18",
+    "tags": "Burp扩展",
+    "description": "Burp Plugin for Contrast Security"
+  },
+  {
+    "author": "libaibaia",
+    "project": "BucketVulTools",
+    "url": "https://github.com/libaibaia/BucketVulTools",
+    "first_commit": "2024-11-02",
+    "last_commit": "2025-07-16",
+    "tags": "云存储安全,配置检测,漏洞扫描",
+    "description": "存储桶配置错误漏洞检测工具"
+  },
+  {
+    "author": "WhiteOakSecurity",
+    "project": "bulkSendToRepeater",
+    "url": "https://github.com/WhiteOakSecurity/bulkSendToRepeater",
+    "first_commit": "2024-06-12",
+    "last_commit": "2025-07-16",
+    "tags": "Burp扩展",
+    "description": "bulkAddToRepeater Burp Extension to Allow Mass \"Send to Repeater\" Using Context Menu"
+  },
+  {
+    "author": "assetnote",
+    "project": "nowafpls",
+    "url": "https://github.com/assetnote/nowafpls",
+    "first_commit": "2024-05-06",
+    "last_commit": "2025-07-14",
+    "tags": "WAF绕过,垃圾字符,绕过技术",
+    "description": "通过插入垃圾字符实现WAF绕过"
+  },
+  {
+    "author": "ricardojba",
+    "project": "poi-slinger",
+    "url": "https://github.com/ricardojba/poi-slinger",
+    "first_commit": "2019-10-08",
+    "last_commit": "2025-07-07",
+    "tags": "主动扫描",
+    "description": "Automatically identify serialization issues in PHP Frameworks by means of an Burp Suite active scan"
+  },
+  {
+    "author": "Mukeshj008",
+    "project": "Spring-Boot-heapDump-Scanner",
+    "url": "https://github.com/Mukeshj008/Spring-Boot-heapDump-Scanner",
+    "first_commit": "2025-07-07",
+    "last_commit": "2025-07-07",
+    "tags": "主动扫描",
+    "description": "This is to scan exposed heapdump and threaddump"
+  },
+  {
+    "author": "hackvertor",
+    "project": "repeat-strike",
+    "url": "https://github.com/hackvertor/repeat-strike",
+    "first_commit": "2025-04-14",
+    "last_commit": "2025-07-01",
+    "tags": "Burp扩展",
+    "description": ""
+  },
+  {
+    "author": "vaycore",
+    "project": "OneScan",
+    "url": "https://github.com/vaycore/OneScan",
+    "first_commit": "2023-02-14",
+    "last_commit": "2025-06-24",
+    "tags": "目录扫描,递归扫描",
+    "description": "递归目录扫描插件"
+  },
+  {
+    "author": "StripperPaws",
+    "project": "burp-sockethistory-export",
+    "url": "https://github.com/StripperPaws/burp-sockethistory-export",
+    "first_commit": "2025-06-20",
+    "last_commit": "2025-06-20",
+    "tags": "功能增强",
+    "description": "Plugin that adds a way to quickly export your WebSocket history in Burp Suite"
+  },
+  {
+    "author": "veggiespam",
+    "project": "ImageLocationScanner",
+    "url": "https://github.com/veggiespam/ImageLocationScanner",
+    "first_commit": "2015-01-26",
+    "last_commit": "2025-06-18",
+    "tags": "主动扫描",
+    "description": "Discover GPS location and private data exposure inside of images using this Burp & ZAP plugin."
+  },
+  {
+    "author": "ret2desync",
+    "project": "JavaScript-EncodeAs-Burp-Plugin",
+    "url": "https://github.com/ret2desync/JavaScript-EncodeAs-Burp-Plugin",
+    "first_commit": "2024-08-23",
+    "last_commit": "2025-06-16",
+    "tags": "Burp扩展",
+    "description": "Basic Burp Plugin to allow encoding strings to JavaScript encodings (Unicode/Hex)."
+  },
+  {
+    "author": "pentagridsec",
+    "project": "PentagridScanController",
+    "url": "https://github.com/pentagridsec/PentagridScanController",
+    "first_commit": "2022-06-16",
+    "last_commit": "2025-06-04",
+    "tags": "主动扫描",
+    "description": "Improve automated and semi-automated active scanning in Burp Pro"
+  },
+  {
+    "author": "lufeirider",
+    "project": "LFIScanner",
+    "url": "https://github.com/lufeirider/Project/tree/master/LFIScanner",
+    "first_commit": "2023-09-05",
+    "last_commit": "2025-06-01",
+    "tags": "LFI检测,文件包含,漏洞检测",
+    "description": "本地文件包含漏洞检测"
+  },
+  {
+    "author": "Redguard",
+    "project": "log-requests-to-sqlite",
+    "url": "https://github.com/Redguard/log-requests-to-sqlite",
+    "first_commit": "2018-08-12",
+    "last_commit": "2025-05-28",
+    "tags": "AI集成,主动扫描,SQL注入,流量处理",
+    "description": "BURP extension to record every HTTP request send via BURP and create an audit trail log of an assessment."
+  },
+  {
+    "author": "gand3lf",
+    "project": "semgrepper",
+    "url": "https://github.com/gand3lf/semgrepper",
+    "first_commit": "2022-11-04",
+    "last_commit": "2025-05-23",
+    "tags": "Burp扩展",
+    "description": "An extension to use Semgrep inside Burp Suite."
+  },
+  {
+    "author": "codewatchorg",
+    "project": "sqlipy",
+    "url": "https://github.com/codewatchorg/sqlipy",
+    "first_commit": "2014-09-22",
+    "last_commit": "2025-05-16",
+    "tags": "SQL注入,API安全",
+    "description": "SQLiPy is a Python plugin for Burp Suite that integrates SQLMap using the SQLMap API."
+  },
+  {
+    "author": "ladysecspeare",
+    "project": "WordlistImporter",
+    "url": "https://github.com/ladysecspeare/WordlistImporter",
+    "first_commit": "2025-05-08",
+    "last_commit": "2025-05-14",
+    "tags": "Burp扩展",
+    "description": "A Burp extension, written in Python, which allows seamless importing of wordlists hosted on the Internet directly into Burp Suite."
+  },
+  {
+    "author": "asifnawazminhas",
+    "project": "CVSS3.1Calculator",
+    "url": "https://github.com/asifnawazminhas/CVSS3.1Calculator",
+    "first_commit": "2024-12-30",
+    "last_commit": "2025-05-12",
+    "tags": "Burp扩展",
+    "description": "CVSS Calculator v3.1 - a burp suite extension for calculating v3.1 scores of vulnerabilities. "
+  },
+  {
+    "author": "agreenbhm",
+    "project": "BurpKerberosUpstreamProxy",
+    "url": "https://github.com/agreenbhm/BurpKerberosUpstreamProxy",
+    "first_commit": "2024-02-07",
+    "last_commit": "2025-05-08",
+    "tags": "流量处理",
+    "description": ""
+  },
+  {
+    "author": "luqmanhy",
+    "project": "burp-payloads-manager",
+    "url": "https://github.com/luqmanhy/burp-payloads-manager",
+    "first_commit": "2025-05-03",
+    "last_commit": "2025-05-04",
+    "tags": "Burp扩展",
+    "description": "A Burp Suite extension that helps you manage your custom payloads"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "bseept",
+    "url": "https://github.com/PortSwigger/bseept",
+    "first_commit": "2023-02-21",
+    "last_commit": "2025-05-01",
+    "tags": "官方扩展,功能增强",
+    "description": "Burp Suite DAST Power Tools"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "backslash-powered-scanner",
+    "url": "https://github.com/PortSwigger/backslash-powered-scanner",
+    "first_commit": "2016-11-02",
+    "last_commit": "2025-04-30",
+    "tags": "官方扩展,主动扫描,SQL注入",
+    "description": "Finds unknown classes of injection vulnerabilities"
+  },
+  {
+    "author": "BlackFan",
+    "project": "Burp-Ai-Substitutor",
+    "url": "https://github.com/BlackFan/Burp-Ai-Substitutor",
+    "first_commit": "2025-04-30",
+    "last_commit": "2025-04-30",
+    "tags": "AI集成,流量处理",
+    "description": "AI Substitutor is an extension for Burp Suite that uses AI functionality to substitute values of HTTP request parameters and headers."
+  },
+  {
+    "author": "weishen250",
+    "project": "npscrack",
+    "url": "https://github.com/weishen250/npscrack",
+    "first_commit": "2023-02-16",
+    "last_commit": "2025-04-26",
+    "tags": "漏洞利用,NPS漏洞",
+    "description": "NPS漏洞利用工具"
+  },
+  {
+    "author": "abirasecurity",
+    "project": "HARBringer",
+    "url": "https://github.com/abirasecurity/HARBringer",
+    "first_commit": "2025-04-17",
+    "last_commit": "2025-04-22",
+    "tags": "Burp扩展",
+    "description": "True HAR importer for Portswigger Burpsuite"
+  },
+  {
+    "author": "x00tex",
+    "project": "cipherAes",
+    "url": "https://github.com/x00tex/cipherAes",
+    "first_commit": "2025-01-26",
+    "last_commit": "2025-04-12",
+    "tags": "加密解密,功能增强",
+    "description": "CipherAes, an encryption/decryption utility for BurpSuite"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "distribute-damage",
+    "url": "https://github.com/PortSwigger/distribute-damage",
+    "first_commit": "2016-11-02",
+    "last_commit": "2025-04-11",
+    "tags": "官方扩展,主动扫描",
+    "description": "Evenly distributes scanner load across targets"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "collaborator-everywhere",
+    "url": "https://github.com/PortSwigger/collaborator-everywhere",
+    "first_commit": "2016-12-20",
+    "last_commit": "2025-04-11",
+    "tags": "官方扩展,流量处理",
+    "description": "A Burp Suite Pro extension which augments your proxy traffic by injecting non-invasive headers designed to reveal backend systems by causing pingbacks to Burp Collaborator"
+  },
+  {
+    "author": "mr-m0nst3r",
+    "project": "Burpy",
+    "url": "https://github.com/mr-m0nst3r/Burpy",
+    "first_commit": "2019-11-13",
+    "last_commit": "2025-04-05",
+    "tags": "加密解密,前端加密,Python",
+    "description": "基于Python的前端加密解密解决方案"
+  },
+  {
+    "author": "enochgitgamefied",
+    "project": "notes-editor",
+    "url": "https://github.com/enochgitgamefied/notes-editor",
+    "first_commit": "2025-04-02",
+    "last_commit": "2025-04-03",
+    "tags": "功能增强",
+    "description": "The Notes Editor is a Burp Suite extension designed to enhance note-taking and report generation during security testing. It provides a rich text editor with tabbed documents, syntax highlighting, and built-in formatting tools for penetration testers."
+  },
+  {
+    "author": "siamthanathack",
+    "project": "Passkey-Raider",
+    "url": "https://github.com/siamthanathack/Passkey-Raider",
+    "first_commit": "2025-01-13",
+    "last_commit": "2025-04-01",
+    "tags": "AI集成",
+    "description": "Burp Suite extension for testing Passkey systems."
+  },
+  {
+    "author": "JGillam",
+    "project": "burp-paramalyzer",
+    "url": "https://github.com/JGillam/burp-paramalyzer",
+    "first_commit": "2015-09-17",
+    "last_commit": "2025-03-22",
+    "tags": "Burp扩展",
+    "description": "Paramalyzer - Burp extension for parameter analysis of large-scale web application penetration tests."
+  },
+  {
+    "author": "Hashtag-AMIN",
+    "project": "BadChar",
+    "url": "https://github.com/Hashtag-AMIN/BadChar",
+    "first_commit": "2024-12-22",
+    "last_commit": "2025-03-21",
+    "tags": "Burp扩展",
+    "description": "Burp Suite extension that Generator Wordlist with encoding options and prefix/suffix for generating payloads and FUZZing"
+  },
+  {
+    "author": "trufflesecurity",
+    "project": "trufflehog-burp-suite-extension",
+    "url": "https://github.com/trufflesecurity/trufflehog-burp-suite-extension",
+    "first_commit": "2024-12-31",
+    "last_commit": "2025-03-12",
+    "tags": "API安全",
+    "description": "Official TruffleHog Burp Suite Extension. Scan Burp Suite traffic for 800+ different types of secrets (API keys, passwords, SSH keys, etc) using TruffleHog."
+  },
+  {
+    "author": "eric-m-holub",
+    "project": "timestamp-injector",
+    "url": "https://github.com/eric-m-holub/timestamp-injector",
+    "first_commit": "2024-10-31",
+    "last_commit": "2025-03-05",
+    "tags": "流量处理",
+    "description": "Burp Suite Extension to inject timestamps into HTTP requests"
+  },
+  {
+    "author": "alpernae",
+    "project": "AIHTTPAnalyzer",
+    "url": "https://github.com/alpernae/AIHTTPAnalyzer",
+    "first_commit": "2024-08-27",
+    "last_commit": "2025-03-02",
+    "tags": "AI集成,被动扫描,流量处理",
+    "description": "AIHTTPAnalyzer revolutionizes web application security testing by bringing artificial intelligence capabilities to Burp Suite. This innovative extension harnesses the power of AI to automate vulnerability detection, provide intelligent analysis, and assist security professionals in identifying complex security issues."
+  },
+  {
+    "author": "GHULI3V",
+    "project": "burp-report-generator",
+    "url": "https://github.com/GHULI3V/burp-report-generator",
+    "first_commit": "2025-03-01",
+    "last_commit": "2025-03-01",
+    "tags": "Burp扩展",
+    "description": "Burp Report Generator "
+  },
+  {
+    "author": "Niiiiko",
+    "project": "FastjsonScan4Burp",
+    "url": "https://github.com/Niiiiko/FastjsonScan4Burp",
+    "first_commit": "2025-01-16",
+    "last_commit": "2025-02-28",
+    "tags": "被动扫描,fastjson检测,依赖分析",
+    "description": "被动扫描fastjson漏洞，支持版本和依赖检测"
+  },
+  {
+    "author": "infobyte",
+    "project": "faraday_burp",
+    "url": "https://github.com/infobyte/faraday_burp",
+    "first_commit": "2019-01-10",
+    "last_commit": "2025-02-28",
+    "tags": "Burp扩展",
+    "description": "Burp Extension for collaboration in Faraday"
+  },
+  {
+    "author": "banchengkemeng",
+    "project": "Auto-SSRF",
+    "url": "https://github.com/banchengkemeng/Auto-SSRF",
+    "first_commit": "2024-10-26",
+    "last_commit": "2025-02-13",
+    "tags": "SSRF检测,自动化,漏洞检测",
+    "description": "使用MontoyaAPI自动检测SSRF漏洞"
+  },
+  {
+    "author": "ceylanb",
+    "project": "html-content-extractor",
+    "url": "https://github.com/ceylanb/html-content-extractor",
+    "first_commit": "2024-11-07",
+    "last_commit": "2025-02-06",
+    "tags": "流量处理",
+    "description": "Burp extension to filter HTML elements on the fly with CSS selectors in the HTTP message viewer."
+  },
+  {
+    "author": "doyensec",
+    "project": "PESD-Exporter-Extension",
+    "url": "https://github.com/doyensec/PESD-Exporter-Extension",
+    "first_commit": "2023-02-14",
+    "last_commit": "2025-01-30",
+    "tags": "流量处理,功能增强",
+    "description": "PESD (Proxy Enriched Sequence Diagrams) Exporter converts Burp Suite's proxy traffic into interactive diagrams"
+  },
+  {
+    "author": "0xC01DF00D",
+    "project": "Collabfiltrator",
+    "url": "https://github.com/0xC01DF00D/Collabfiltrator",
+    "first_commit": "2020-03-16",
+    "last_commit": "2025-01-28",
+    "tags": "SQL注入",
+    "description": "Exfiltrate blind Remote Code Execution and SQL injection output over DNS via Burp Collaborator."
+  },
+  {
+    "author": "redhuntlabs",
+    "project": "BurpSuite-Asset_Discover",
+    "url": "https://github.com/redhuntlabs/BurpSuite-Asset_Discover",
+    "first_commit": "2019-07-04",
+    "last_commit": "2025-01-22",
+    "tags": "流量处理",
+    "description": "Burp Suite extension to discover assets from HTTP response."
+  },
+  {
+    "author": "NetSPI",
+    "project": "AWSSigner",
+    "url": "https://github.com/NetSPI/AWSSigner",
+    "first_commit": "2017-10-20",
+    "last_commit": "2025-01-10",
+    "tags": "Burp扩展",
+    "description": "Burp Extension for AWS Signing "
+  },
+  {
+    "author": "GemDem",
+    "project": "SequenceComparer",
+    "url": "https://github.com/GemDem/SequenceComparer",
+    "first_commit": "2025-01-04",
+    "last_commit": "2025-01-04",
+    "tags": "Burp扩展",
+    "description": "Burp Suite Extension"
+  },
+  {
+    "author": "ctflearner",
+    "project": "URL-Harvester",
+    "url": "https://github.com/ctflearner/URL-Harvester",
+    "first_commit": "2024-12-29",
+    "last_commit": "2024-12-29",
+    "tags": "流量处理,功能增强",
+    "description": "This Burp Suite Extension, URL Harvester captures in-scope URLs from Burp's Proxy and Target tools, providing a GUI to view, manage, and export them."
+  },
+  {
+    "author": "ronen1n",
+    "project": "Burp-License-Title-Cleaner",
+    "url": "https://github.com/ronen1n/Burp-License-Title-Cleaner",
+    "first_commit": "2024-12-23",
+    "last_commit": "2024-12-23",
+    "tags": "Burp扩展",
+    "description": "Removing \" - licensed to .*\" from Burp window title"
+  },
+  {
+    "author": "CoreyD97",
+    "project": "BurpCustomizer",
+    "url": "https://github.com/CoreyD97/BurpCustomizer",
+    "first_commit": "2020-12-31",
+    "last_commit": "2024-12-17",
+    "tags": "主题切换,UI定制,功能增强",
+    "description": "Burp 2020.12+主题切换器"
+  },
+  {
+    "author": "d0ge",
+    "project": "sign-saboteur",
+    "url": "https://github.com/d0ge/sign-saboteur",
+    "first_commit": "2023-10-30",
+    "last_commit": "2024-11-29",
+    "tags": "Burp扩展",
+    "description": "SignSaboteur is a Burp Suite extension for editing, signing, verifying various signed web tokens"
+  },
+  {
+    "author": "Bort-Millipede",
+    "project": "Burp-Batch-Report-Generator",
+    "url": "https://github.com/Bort-Millipede/Burp-Batch-Report-Generator",
+    "first_commit": "2017-02-08",
+    "last_commit": "2024-11-20",
+    "tags": "Burp扩展",
+    "description": "Small Burp Suite Extension to generate multiple scan reports by host with just a few clicks. Works with Burp Suite Professional only."
+  },
+  {
+    "author": "wmspydev",
+    "project": "burp-gat-core-integration",
+    "url": "https://github.com/wmspydev/burp-gat-core-integration",
+    "first_commit": "2020-07-29",
+    "last_commit": "2024-11-14",
+    "tags": "Burp扩展",
+    "description": "Burp and GAT Core Integration - Risk-based Information Security Management Platform"
+  },
+  {
+    "author": "synfron",
+    "project": "ReshaperForBurp",
+    "url": "https://github.com/synfron/ReshaperForBurp",
+    "first_commit": "2020-11-26",
+    "last_commit": "2024-11-10",
+    "tags": "流量处理",
+    "description": "Burp Suite Extension - Trigger actions and reshape HTTP request/response and WebSocket traffic using configurable rules"
+  },
+  {
+    "author": "akabe1",
+    "project": "OAUTHScan",
+    "url": "https://github.com/akabe1/OAUTHScan",
+    "first_commit": "2021-12-21",
+    "last_commit": "2024-10-26",
+    "tags": "权限测试",
+    "description": "Burp Suite Extension useful to verify OAUTHv2 and OpenID security"
+  },
+  {
+    "author": "CYS4srl",
+    "project": "SensitiveDiscoverer",
+    "url": "https://github.com/CYS4srl/SensitiveDiscoverer",
+    "first_commit": "2021-08-31",
+    "last_commit": "2024-10-25",
+    "tags": "流量处理",
+    "description": "Sensitive Discoverer, a Burp extension to discovers sensitive information inside HTTP messages."
+  },
+  {
+    "author": "ther0ok1eboy",
+    "project": "CaptchaDos",
+    "url": "https://github.com/ther0ok1eboy/CaptchaDos",
+    "first_commit": "2024-10-23",
+    "last_commit": "2024-10-24",
+    "tags": "验证码攻击,DoS测试",
+    "description": "验证码DoS攻击插件"
+  },
+  {
+    "author": "Saadet-T",
+    "project": "Captcha-Converter",
+    "url": "https://github.com/Saadet-T/Captcha-Converter",
+    "first_commit": "2024-08-28",
+    "last_commit": "2024-10-24",
+    "tags": "Burp扩展",
+    "description": "A Burp Suite extension for converting Base64 data to an image."
+  },
+  {
+    "author": "c0r1",
+    "project": "BypassPro",
+    "url": "https://github.com/c0r1/BypassPro",
+    "first_commit": "2024-10-10",
+    "last_commit": "2024-10-12",
+    "tags": "权限绕过,自动化,越权检测",
+    "description": "自动化权限绕过插件"
+  },
+  {
+    "author": "smxiazi",
+    "project": "NEW_xp_CAPTCHA",
+    "url": "https://github.com/smxiazi/NEW_xp_CAPTCHA",
+    "first_commit": "2021-04-23",
+    "last_commit": "2024-10-11",
+    "tags": "验证码识别,爆破辅助",
+    "description": "爆破用验证码识别工具"
+  },
+  {
+    "author": "shuanx",
+    "project": "BurpAPIFinder",
+    "url": "https://github.com/shuanx/BurpAPIFinder",
+    "first_commit": "2023-09-08",
+    "last_commit": "2024-10-03",
+    "tags": "API发现,信息收集,敏感信息",
+    "description": "综合API和敏感信息提取工具"
+  },
+  {
+    "author": "OlderMutt",
+    "project": "HeaderGuardian-Burpsuite-Pro-Extension",
+    "url": "https://github.com/OlderMutt/HeaderGuardian-Burpsuite-Pro-Extension",
+    "first_commit": "2024-10-02",
+    "last_commit": "2024-10-02",
+    "tags": "AI集成,XSS检测,流量处理",
+    "description": "Header Guardian is a Burp Suite extension that identifies missing, misconfigured, and unnecessary HTTP security headers in web application responses. It helps improve security by ensuring headers follow best practices, like those recommended by OWASP, for protecting against XSS, clickjacking, and information leakage."
+  },
+  {
+    "author": "TheDarkSideOps",
+    "project": "Nmap-Scanner---Burp-Suite-Extension",
+    "url": "https://github.com/TheDarkSideOps/Nmap-Scanner---Burp-Suite-Extension",
+    "first_commit": "2024-06-06",
+    "last_commit": "2024-09-30",
+    "tags": "主动扫描,功能增强",
+    "description": "The Nmap Scanner Burp Suite Extension integrates Nmap's powerful network scanning capabilities directly into the Burp Suite interface. This extension provides an easy-to-use graphical interface for initiating and viewing the results of Nmap scans within Burp Suite, making it an essential tool for security professionals and penetration testers."
+  },
+  {
+    "author": "shuanx",
+    "project": "BurpFingerPrint",
+    "url": "https://github.com/shuanx/BurpFingerPrint",
+    "first_commit": "2023-09-08",
+    "last_commit": "2024-09-05",
+    "tags": "指纹识别,弱口令爆破,OA安全",
+    "description": "集成Ehole指纹库，支持OA弱口令爆破"
+  },
+  {
+    "author": "silentsignal",
+    "project": "burp-requests",
+    "url": "https://github.com/silentsignal/burp-requests",
+    "first_commit": "2015-09-25",
+    "last_commit": "2024-08-22",
+    "tags": "代码转换,Python requests",
+    "description": "将Burp请求转换为Python requests代码"
+  },
+  {
+    "author": "WhiteOakSecurity",
+    "project": "DisplaySwitcher",
+    "url": "https://github.com/WhiteOakSecurity/DisplaySwitcher",
+    "first_commit": "2024-04-17",
+    "last_commit": "2024-08-09",
+    "tags": "Burp扩展",
+    "description": "Repository for the DisplaySwitcher Burp Suite extension"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "replicator",
+    "url": "https://github.com/PortSwigger/replicator",
+    "first_commit": "2018-02-09",
+    "last_commit": "2024-07-22",
+    "tags": "官方扩展",
+    "description": "Burp extension to help developers replicate findings from pen tests"
+  },
+  {
+    "author": "smxiazi",
+    "project": "xia_Liao",
+    "url": "https://github.com/smxiazi/xia_Liao",
+    "first_commit": "2022-08-30",
+    "last_commit": "2024-07-09",
+    "tags": "数据生成,测试数据,代码生成",
+    "description": "生成测试数据(姓名、手机号、身份证等)和hello world代码"
+  },
+  {
+    "author": "doyensec",
+    "project": "CSPTBurpExtension",
+    "url": "https://github.com/doyensec/CSPTBurpExtension",
+    "first_commit": "2024-06-26",
+    "last_commit": "2024-07-02",
+    "tags": "加密解密",
+    "description": "CSPT is an open-source Burp Suite extension to find and exploit Client-Side Path Traversal."
+  },
+  {
+    "author": "nccgroup",
+    "project": "Berserko",
+    "url": "https://github.com/nccgroup/Berserko",
+    "first_commit": "2016-08-25",
+    "last_commit": "2024-06-28",
+    "tags": "权限测试",
+    "description": "Burp Suite extension to perform Kerberos authentication"
+  },
+  {
+    "author": "augustd",
+    "project": "burp-suite-software-version-checks",
+    "url": "https://github.com/augustd/burp-suite-software-version-checks",
+    "first_commit": "2013-08-14",
+    "last_commit": "2024-05-30",
+    "tags": "被动扫描",
+    "description": "Burp extension to passively scan for applications revealing software version numbers"
+  },
+  {
+    "author": "summitt",
+    "project": "Burp-Non-HTTP-Extension",
+    "url": "https://github.com/summitt/Burp-Non-HTTP-Extension",
+    "first_commit": "2016-05-23",
+    "last_commit": "2024-05-25",
+    "tags": "流量捕获,非HTTP协议",
+    "description": "捕获非HTTP流量"
+  },
+  {
+    "author": "summitt",
+    "project": "Nope-Proxy",
+    "url": "https://github.com/summitt/Nope-Proxy",
+    "first_commit": "2016-05-23",
+    "last_commit": "2024-05-25",
+    "tags": "流量处理",
+    "description": "TCP/UDP Non-HTTP Proxy Extension (NoPE)  for  Burp Suite."
+  },
+  {
+    "author": "phlmox",
+    "project": "burp_copy_as_ffuf_command",
+    "url": "https://github.com/phlmox/burp_copy_as_ffuf_command",
+    "first_commit": "2024-04-13",
+    "last_commit": "2024-05-17",
+    "tags": "Burp扩展",
+    "description": "Copy as FFUF Command for Burp Suite"
+  },
+  {
+    "author": "augustd",
+    "project": "burp-suite-jsonpath",
+    "url": "https://github.com/augustd/burp-suite-jsonpath",
+    "first_commit": "2017-08-10",
+    "last_commit": "2024-05-15",
+    "tags": "Burp扩展",
+    "description": "JSONPath extension for BurpSuite"
+  },
+  {
+    "author": "pyno",
+    "project": "http-digest-auth",
+    "url": "https://github.com/pyno/http-digest-auth",
+    "first_commit": "2021-11-12",
+    "last_commit": "2024-04-05",
+    "tags": "权限测试,流量处理",
+    "description": "A Burp Suite extension to handle HTTP Digest Authentication, which is no more supported by Burp Suite since version 2020.7."
+  },
+  {
+    "author": "moeinfatehi",
+    "project": "Backup-Finder",
+    "url": "https://github.com/moeinfatehi/Backup-Finder",
+    "first_commit": "2018-09-10",
+    "last_commit": "2024-03-27",
+    "tags": "Burp扩展",
+    "description": "Burp Suite extension (BApp Store) that finds backup, old, temporary and unreferenced files leaking sensitive data on web servers. OWASP WSTG-CONF-04."
+  },
+  {
+    "author": "baegmon",
+    "project": "CookieMonster",
+    "url": "https://github.com/baegmon/CookieMonster",
+    "first_commit": "2024-03-25",
+    "last_commit": "2024-03-25",
+    "tags": "Burp扩展",
+    "description": "A Burp Suite plugin to easily manage cookies"
+  },
+  {
+    "author": "InitRoot",
+    "project": "BurpJSLinkFinder",
+    "url": "https://github.com/InitRoot/BurpJSLinkFinder",
+    "first_commit": "2019-06-10",
+    "last_commit": "2024-03-22",
+    "tags": "JS分析,域名提取,URL提取",
+    "description": "从JavaScript中提取域名和URL"
+  },
+  {
+    "author": "Redguard",
+    "project": "Sheet-Intruder",
+    "url": "https://github.com/Redguard/Sheet-Intruder",
+    "first_commit": "2023-11-15",
+    "last_commit": "2024-03-19",
+    "tags": "Burp扩展",
+    "description": "Enables transparent use of Excel files in Burp Suite"
+  },
+  {
+    "author": "SamyGhannad",
+    "project": "copy_as_go_request",
+    "url": "https://github.com/SamyGhannad/copy_as_go_request",
+    "first_commit": "2021-09-06",
+    "last_commit": "2024-03-09",
+    "tags": "流量处理",
+    "description": "Burp Suite extension to copy requests as Go"
+  },
+  {
+    "author": "e1abrador",
+    "project": "Burp-Encode-IP",
+    "url": "https://github.com/e1abrador/Burp-Encode-IP",
+    "first_commit": "2023-07-17",
+    "last_commit": "2024-03-04",
+    "tags": "AI集成,WAF绕过",
+    "description": "Burp Suite extension to encode an IP address focused to bypass application IP / domain blacklist."
+  },
+  {
+    "author": "Serhatcck",
+    "project": "Burp-Extension-DPoP",
+    "url": "https://github.com/Serhatcck/Burp-Extension-DPoP",
+    "first_commit": "2024-02-28",
+    "last_commit": "2024-02-28",
+    "tags": "Burp扩展",
+    "description": "Burp Extension DPoP"
+  },
+  {
+    "author": "JGillam",
+    "project": "burp-co2",
+    "url": "https://github.com/JGillam/burp-co2",
+    "first_commit": "2014-02-08",
+    "last_commit": "2024-02-21",
+    "tags": "功能增强",
+    "description": "A collection of enhancements for Portswigger's popular Burp Suite web penetration testing tool."
+  },
+  {
+    "author": "Ovi3",
+    "project": "burp-menu-level",
+    "url": "https://github.com/Ovi3/burp-menu-level",
+    "first_commit": "2023-09-26",
+    "last_commit": "2024-02-04",
+    "tags": "Burp扩展",
+    "description": "一个用于修改右键插件菜单层级的Burpsuite插件。A simple BurpSuite extension to change extension context menu level."
+  },
+  {
+    "author": "dradis",
+    "project": "burp-dradis",
+    "url": "https://github.com/dradis/burp-dradis",
+    "first_commit": "2016-11-03",
+    "last_commit": "2024-01-30",
+    "tags": "Burp扩展",
+    "description": "Dradis Framework extension for Burp Suite"
+  },
+  {
+    "author": "WhiteOakSecurity",
+    "project": "addToTLSPassThrough",
+    "url": "https://github.com/WhiteOakSecurity/addToTLSPassThrough",
+    "first_commit": "2023-08-16",
+    "last_commit": "2024-01-17",
+    "tags": "Burp扩展",
+    "description": "Burp Extension to add context menus for configuration of the Add to TLS Pass Through setting"
+  },
+  {
+    "author": "aress31",
+    "project": "openapi-parser",
+    "url": "https://github.com/aress31/openapi-parser",
+    "first_commit": "2018-01-03",
+    "last_commit": "2024-01-03",
+    "tags": "API安全",
+    "description": "Parse OpenAPI documents into Burp Suite for automating OpenAPI-based APIs security assessments (approved by PortSwigger for inclusion in their official BApp Store)."
+  },
+  {
+    "author": "augustd",
+    "project": "burp-suite-error-message-checks",
+    "url": "https://github.com/augustd/burp-suite-error-message-checks",
+    "first_commit": "2014-09-18",
+    "last_commit": "2023-12-15",
+    "tags": "被动扫描",
+    "description": "Burp Suite extension to passively scan for applications revealing server error messages"
+  },
+  {
+    "author": "nccgroup",
+    "project": "BurpSuiteLoggerPlusPlus",
+    "url": "https://github.com/nccgroup/BurpSuiteLoggerPlusPlus",
+    "first_commit": "2014-05-02",
+    "last_commit": "2023-12-05",
+    "tags": "日志增强,记录工具,功能增强",
+    "description": "增强日志记录插件"
+  },
+  {
+    "author": "nccgroup",
+    "project": "LoggerPlusPlus",
+    "url": "https://github.com/nccgroup/LoggerPlusPlus",
+    "first_commit": "2014-05-02",
+    "last_commit": "2023-12-05",
+    "tags": "功能增强",
+    "description": "Advanced Burp Suite Logging Extension"
+  },
+  {
+    "author": "moeinfatehi",
+    "project": "CVSS_Calculator",
+    "url": "https://github.com/moeinfatehi/CVSS_Calculator",
+    "first_commit": "2017-03-28",
+    "last_commit": "2023-12-05",
+    "tags": "Burp扩展",
+    "description": "Burp Suite extension (BApp Store) for calculating CVSS v2 and v3.1 vulnerability scores offline, inside your pentest workflow."
+  },
+  {
+    "author": "bit4woo",
+    "project": "reCAPTCHA",
+    "url": "https://github.com/bit4woo/reCAPTCHA",
+    "first_commit": "2017-11-01",
+    "last_commit": "2023-11-23",
+    "tags": "验证码识别,Intruder集成,自动识别",
+    "description": "Intruder自动验证码识别"
+  },
+  {
+    "author": "metaStor",
+    "project": "SpringScan",
+    "url": "https://github.com/metaStor/SpringScan",
+    "first_commit": "2022-04-09",
+    "last_commit": "2023-11-14",
+    "tags": "漏洞检测,Spring漏洞,RCE检测",
+    "description": "Spring Core RCE漏洞检测"
+  },
+  {
+    "author": "mbkunal",
+    "project": "KollaboratorModuleBuilder",
+    "url": "https://github.com/mbkunal/KollaboratorModuleBuilder",
+    "first_commit": "2023-10-17",
+    "last_commit": "2023-11-14",
+    "tags": "Burp扩展",
+    "description": "Burp suite extension to build and handle collaborator interaction."
+  },
+  {
+    "author": "e1abrador",
+    "project": "Burp-headerSnipper",
+    "url": "https://github.com/e1abrador/Burp-headerSnipper",
+    "first_commit": "2023-11-12",
+    "last_commit": "2023-11-12",
+    "tags": "流量处理",
+    "description": "Burp extension used to snip any header from all the requests."
+  },
+  {
+    "author": "alexcowperthwaite",
+    "project": "PasskeyScanner",
+    "url": "https://github.com/alexcowperthwaite/PasskeyScanner",
+    "first_commit": "2023-10-30",
+    "last_commit": "2023-10-30",
+    "tags": "主动扫描",
+    "description": ""
+  },
+  {
+    "author": "akenofu",
+    "project": "URL_Fuzzer_401_403_Bypass",
+    "url": "https://github.com/akenofu/URL_Fuzzer_401_403_Bypass",
+    "first_commit": "2023-10-05",
+    "last_commit": "2023-10-18",
+    "tags": "WAF绕过,流量处理",
+    "description": "A Burp extension to Fuzz URLs for HTTP parser inconsistencies"
+  },
+  {
+    "author": "dreamncn",
+    "project": "CustomCrypto",
+    "url": "https://github.com/dreamncn/CustomCrypto",
+    "first_commit": "2022-04-18",
+    "last_commit": "2023-10-10",
+    "tags": "加密解密,自定义加密",
+    "description": "自定义加密解密插件"
+  },
+  {
+    "author": "silentsignal",
+    "project": "burp-log4shell",
+    "url": "https://github.com/silentsignal/burp-log4shell",
+    "first_commit": "2021-12-12",
+    "last_commit": "2023-09-24",
+    "tags": "主动扫描",
+    "description": "Log4Shell scanner for Burp Suite"
+  },
+  {
+    "author": "websecnl",
+    "project": "MagicByteSelector",
+    "url": "https://github.com/websecnl/MagicByteSelector",
+    "first_commit": "2023-09-10",
+    "last_commit": "2023-09-22",
+    "tags": "流量处理",
+    "description": "Burp Suite Extension for inserting a magic byte into responder's request"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "dastardly-github-action",
+    "url": "https://github.com/PortSwigger/dastardly-github-action",
+    "first_commit": "2022-10-17",
+    "last_commit": "2023-09-19",
+    "tags": "官方扩展,AI集成",
+    "description": "Runs a scan using Dastardly by Burp Suite against a target site and creates a JUnit XML report for the scan on completion."
+  },
+  {
+    "author": "The-Login",
+    "project": "DNS-Analyzer",
+    "url": "https://github.com/The-Login/DNS-Analyzer",
+    "first_commit": "2023-06-02",
+    "last_commit": "2023-09-12",
+    "tags": "Burp扩展",
+    "description": "A Burp Suite extension for finding DNS vulnerabilities in web applications!"
+  },
+  {
+    "author": "Lotus6",
+    "project": "AutoRepeater",
+    "url": "https://github.com/Lotus6/AutoRepeater",
+    "first_commit": "2023-09-02",
+    "last_commit": "2023-09-10",
+    "tags": "自动化,SSRF检测,重定向检测,SQL注入",
+    "description": "自动化SSRF、重定向和SQL注入检测，支持自定义参数"
+  },
+  {
+    "author": "yeswehack",
+    "project": "YesWeBurp",
+    "url": "https://github.com/yeswehack/YesWeBurp",
+    "first_commit": "2019-05-27",
+    "last_commit": "2023-08-29",
+    "tags": "API安全",
+    "description": "YesWeHack Api Extension for Burp"
+  },
+  {
+    "author": "prakharathreya",
+    "project": "Struts2-RCE",
+    "url": "https://github.com/prakharathreya/Struts2-RCE",
+    "first_commit": "2020-02-04",
+    "last_commit": "2023-08-23",
+    "tags": "漏洞检测,Struts2漏洞",
+    "description": "Struts2漏洞检查工具"
+  },
+  {
+    "author": "wdahlenburg",
+    "project": "interactsh-collaborator",
+    "url": "https://github.com/wdahlenburg/interactsh-collaborator",
+    "first_commit": "2021-08-26",
+    "last_commit": "2023-08-05",
+    "tags": "OOB检测,协作平台,SSRF检测",
+    "description": "Interact.sh协作平台插件，用于OOB漏洞检测"
+  },
+  {
+    "author": "whwlsfb",
+    "project": "Log4j2Scan",
+    "url": "https://github.com/whwlsfb/Log4j2Scan",
+    "first_commit": "2021-12-10",
+    "last_commit": "2023-08-04",
+    "tags": "被动扫描,Log4j漏洞",
+    "description": "被动Log4j漏洞检测"
+  },
+  {
+    "author": "whwlsfb",
+    "project": "BurpCrypto",
+    "url": "https://github.com/whwlsfb/BurpCrypto",
+    "first_commit": "2020-05-26",
+    "last_commit": "2023-08-04",
+    "tags": "加密解密,多种算法,爆破工具,无依赖",
+    "description": "支持多种加密算法的前端爆破工具，无需外部依赖"
+  },
+  {
+    "author": "Anof-cyber",
+    "project": "Pentest-Mapper",
+    "url": "https://github.com/Anof-cyber/Pentest-Mapper",
+    "first_commit": "2022-04-08",
+    "last_commit": "2023-08-02",
+    "tags": "AI集成",
+    "description": "A Burp Suite Extension for pentester and bug bounty hunters an to maintain checklist, map flows, write test cases and track vulnerabilities "
+  },
+  {
+    "author": "jackj07",
+    "project": "Response-Pattern-Matcher",
+    "url": "https://github.com/jackj07/Response-Pattern-Matcher",
+    "first_commit": "2020-02-04",
+    "last_commit": "2023-08-01",
+    "tags": "API安全,流量处理",
+    "description": "Adds extensibility to Burp by using a list of payloads to pattern match on HTTP responses highlighting interesting and potentially vulnerable areas. "
+  },
+  {
+    "author": "julianjm",
+    "project": "waf_bypadd",
+    "url": "https://github.com/julianjm/waf_bypadd",
+    "first_commit": "2023-07-21",
+    "last_commit": "2023-07-23",
+    "tags": "WAF绕过,流量处理",
+    "description": "This Burp Suite extension is designed to bypass Web Application Firewalls (WAFs) by padding HTTP requests with dummy data."
+  },
+  {
+    "author": "vrechson",
+    "project": "copy-to-bcheck",
+    "url": "https://github.com/vrechson/copy-to-bcheck",
+    "first_commit": "2023-07-13",
+    "last_commit": "2023-07-18",
+    "tags": "流量处理",
+    "description": "BurpSuite extension to convert requests into bcheck scripts"
+  },
+  {
+    "author": "Anof-cyber",
+    "project": "ParaForge",
+    "url": "https://github.com/Anof-cyber/ParaForge",
+    "first_commit": "2023-06-27",
+    "last_commit": "2023-06-27",
+    "tags": "Burp扩展",
+    "description": "A BurpSuite extension to create a custom word-list of endpoint and parameters for enumeration and fuzzing"
+  },
+  {
+    "author": "dbrwsky",
+    "project": "Nuclei-BurpExtension",
+    "url": "https://github.com/dbrwsky/Nuclei-BurpExtension",
+    "first_commit": "2022-02-12",
+    "last_commit": "2023-06-17",
+    "tags": "主动扫描",
+    "description": "Simple extension that allows to run nuclei scanner directly from burp and transforms json results into the issues."
+  },
+  {
+    "author": "cyberaz0r",
+    "project": "Burp-IISTildeEnumerationScanner",
+    "url": "https://github.com/cyberaz0r/Burp-IISTildeEnumerationScanner",
+    "first_commit": "2021-12-18",
+    "last_commit": "2023-06-12",
+    "tags": "主动扫描",
+    "description": "Burp extension to check and exploit the IIS Tilde Enumeration/IIS 8.3 Short Filename Disclosure vulnerability"
+  },
+  {
+    "author": "antlarac",
+    "project": "Headers",
+    "url": "https://github.com/antlarac/Headers",
+    "first_commit": "2021-12-25",
+    "last_commit": "2023-06-07",
+    "tags": "Burp扩展",
+    "description": "Headers Burp Extension"
+  },
+  {
+    "author": "KrystianLi",
+    "project": "OutLook",
+    "url": "https://github.com/KrystianLi/OutLook",
+    "first_commit": "2023-02-14",
+    "last_commit": "2023-05-23",
+    "tags": "信息收集,联系人爬取",
+    "description": "Outlook联系人信息爬虫"
+  },
+  {
+    "author": "API-Security",
+    "project": "APIKit",
+    "url": "https://github.com/API-Security/APIKit",
+    "first_commit": "2021-11-24",
+    "last_commit": "2023-05-19",
+    "tags": "综合扫描,漏洞检测,API安全",
+    "description": "集成化API漏洞检测插件"
+  },
+  {
+    "author": "moloch--",
+    "project": "CSP-Bypass",
+    "url": "https://github.com/moloch--/CSP-Bypass",
+    "first_commit": "2016-01-31",
+    "last_commit": "2023-05-19",
+    "tags": "被动扫描,WAF绕过",
+    "description": "A Burp Plugin for Detecting Weaknesses in Content Security Policies"
+  },
+  {
+    "author": "smxiazi",
+    "project": "xia_sql",
+    "url": "https://github.com/smxiazi/xia_sql",
+    "first_commit": "2022-02-09",
+    "last_commit": "2023-05-18",
+    "tags": "SQL注入,简单检测,引号测试",
+    "description": "简单SQL注入检测，支持引号测试"
+  },
+  {
+    "author": "certuscyber",
+    "project": "bapp-certus",
+    "url": "https://github.com/certuscyber/bapp-certus",
+    "first_commit": "2023-05-02",
+    "last_commit": "2023-05-16",
+    "tags": "Burp扩展",
+    "description": ""
+  },
+  {
+    "author": "h3xstream",
+    "project": "burp-retire-js",
+    "url": "https://github.com/h3xstream/burp-retire-js",
+    "first_commit": "2014-08-20",
+    "last_commit": "2023-05-11",
+    "tags": "Burp扩展",
+    "description": "Burp/ZAP/Maven extension that integrate Retire.js repository to find vulnerable Javascript libraries."
+  },
+  {
+    "author": "mrknow001",
+    "project": "BurpAppletPentester",
+    "url": "https://github.com/mrknow001/BurpAppletPentester",
+    "first_commit": "2023-02-18",
+    "last_commit": "2023-05-08",
+    "tags": "加密解密,微信小程序,SessionKey",
+    "description": "微信小程序Wx_SessionKey加密解密工具"
+  },
+  {
+    "author": "depycode",
+    "project": "burpsuite_hack",
+    "url": "https://github.com/depycode/burpsuite_hack",
+    "first_commit": "2023-02-06",
+    "last_commit": "2023-05-05",
+    "tags": "被动扫描,SQL注入,SSRF检测",
+    "description": "被动代理扫描SQL注入和SSRF漏洞"
+  },
+  {
+    "author": "z2p",
+    "project": "sweetPotato",
+    "url": "https://github.com/z2p/sweetPotato",
+    "first_commit": "2022-09-25",
+    "last_commit": "2023-04-29",
+    "tags": "资产发现,递归扫描,流量检测",
+    "description": "自动递归域名资产发现和流量检测"
+  },
+  {
+    "author": "V9Y1nf0S3C",
+    "project": "Session-Handler-Plus",
+    "url": "https://github.com/V9Y1nf0S3C/Session-Handler-Plus",
+    "first_commit": "2023-04-20",
+    "last_commit": "2023-04-22",
+    "tags": "Burp扩展",
+    "description": "Burp extension that provide more control on session handling of JWT/Access_Tokens/Refresh_Tokens/CSRF_Tokens, launching custom scripts using session handling, helps to trigger selenium automation to perform complicated logins"
+  },
+  {
+    "author": "no-sec",
+    "project": "burputils-XChromeLogger-decoder",
+    "url": "https://github.com/no-sec/burputils-XChromeLogger-decoder",
+    "first_commit": "2016-02-14",
+    "last_commit": "2023-04-17",
+    "tags": "AI集成,流量处理,功能增强",
+    "description": "This BurpSuite extension adds a new tab in the HTTP message editor to display X-ChromeLogger-Data (see https://craig.is/writing/chrome-logger) in decoded form."
+  },
+  {
+    "author": "d3mondev",
+    "project": "burp-vps-proxy",
+    "url": "https://github.com/d3mondev/burp-vps-proxy",
+    "first_commit": "2023-03-05",
+    "last_commit": "2023-04-04",
+    "tags": "代理工具,云服务,SOCKS5",
+    "description": "自动在云服务上创建/删除上游SOCKS5代理"
+  },
+  {
+    "author": "wagiro",
+    "project": "BurpBounty",
+    "url": "https://github.com/wagiro/BurpBounty",
+    "first_commit": "2018-05-30",
+    "last_commit": "2023-03-27",
+    "tags": "主动扫描,被动扫描",
+    "description": "Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that allows you, in a quick and simple way, to improve the active and passive scanner by means of personalized rules through a very intuitive graphical interface."
+  },
+  {
+    "author": "sunny0day",
+    "project": "burp-auto-drop",
+    "url": "https://github.com/sunny0day/burp-auto-drop",
+    "first_commit": "2019-08-19",
+    "last_commit": "2023-03-10",
+    "tags": "AI集成,流量处理",
+    "description": "Burp extension to automatically drop requests that match a certain regex."
+  },
+  {
+    "author": "Static-Flow",
+    "project": "DirectoryImporter",
+    "url": "https://github.com/Static-Flow/DirectoryImporter",
+    "first_commit": "2019-06-05",
+    "last_commit": "2023-03-01",
+    "tags": "流量处理,功能增强",
+    "description": "This is a Burpsuite plugin built to enable you to import your directory bruteforcing results into burp for easy viewing later. This is an alternative to proxying bruteforcing tools through burp to catch the results."
+  },
+  {
+    "author": "c0ny1",
+    "project": "passive-scan-client",
+    "url": "https://github.com/c0ny1/passive-scan-client",
+    "first_commit": "2019-08-08",
+    "last_commit": "2023-02-03",
+    "tags": "被动扫描,流量转发",
+    "description": "被动扫描流量转发"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "burp-extender-api",
+    "url": "https://github.com/PortSwigger/burp-extender-api",
+    "first_commit": "2017-01-11",
+    "last_commit": "2023-01-17",
+    "tags": "官方扩展,API安全",
+    "description": "Burp Wiener API (Legacy)"
+  },
+  {
+    "author": "nccgroup",
+    "project": "BurpImportSitemap",
+    "url": "https://github.com/nccgroup/BurpImportSitemap",
+    "first_commit": "2020-05-05",
+    "last_commit": "2023-01-11",
+    "tags": "功能增强",
+    "description": "Import To Sitemap is a Burp Suite Extension to import wstalker CSV file or ZAP export file into Burp Sitemap"
+  },
+  {
+    "author": "codewatchorg",
+    "project": "Burp-AnonymousCloud",
+    "url": "https://github.com/codewatchorg/Burp-AnonymousCloud",
+    "first_commit": "2020-01-22",
+    "last_commit": "2023-01-11",
+    "tags": "被动扫描",
+    "description": "Burp extension that performs a passive scan to identify cloud buckets and then test them for publicly accessible vulnerabilities"
+  },
+  {
+    "author": "hackvertor",
+    "project": "taborator",
+    "url": "https://github.com/hackvertor/taborator",
+    "first_commit": "2019-06-12",
+    "last_commit": "2022-12-23",
+    "tags": "Burp扩展",
+    "description": "A Burp extension to show the Collaborator client in a tab"
+  },
+  {
+    "author": "codewatchorg",
+    "project": "Burp-IndicatorsOfVulnerability",
+    "url": "https://github.com/codewatchorg/Burp-IndicatorsOfVulnerability",
+    "first_commit": "2020-01-10",
+    "last_commit": "2022-12-23",
+    "tags": "流量处理",
+    "description": "Burp extension that checks application requests and responses for indicators of vulnerability or targets for attack"
+  },
+  {
+    "author": "A0WaQ4",
+    "project": "BurpCRLFScan",
+    "url": "https://github.com/A0WaQ4/BurpCRLFScan",
+    "first_commit": "2022-11-22",
+    "last_commit": "2022-12-20",
+    "tags": "被动扫描,CRLF注入",
+    "description": "CRLF注入被动扫描工具"
+  },
+  {
+    "author": "Sean-McRae",
+    "project": "OAuthv1---Signing-Burp-Extension-",
+    "url": "https://github.com/Sean-McRae/OAuthv1---Signing-Burp-Extension-",
+    "first_commit": "2022-10-16",
+    "last_commit": "2022-12-11",
+    "tags": "权限测试",
+    "description": "Expands the capabilities of Burp Suite's Platform Authentication by adding additional authentication methods (OAuth v1)"
+  },
+  {
+    "author": "bytebutcher",
+    "project": "burp-send-to",
+    "url": "https://github.com/bytebutcher/burp-send-to",
+    "first_commit": "2019-03-18",
+    "last_commit": "2022-11-27",
+    "tags": "Burp扩展",
+    "description": "Adds a customizable \"Send to...\"-context-menu to your BurpSuite."
+  },
+  {
+    "author": "EASY233",
+    "project": "BpScan",
+    "url": "https://github.com/EASY233/BpScan",
+    "first_commit": "2022-11-23",
+    "last_commit": "2022-11-25",
+    "tags": "被动扫描,Spring漏洞,Log4j检测,FastJson检测",
+    "description": "被动扫描Spring、Log4j和FastJson漏洞"
+  },
+  {
+    "author": "antoinet",
+    "project": "burp-decompressor",
+    "url": "https://github.com/antoinet/burp-decompressor",
+    "first_commit": "2015-09-03",
+    "last_commit": "2022-10-29",
+    "tags": "流量处理",
+    "description": "An extension for BurpSuite used to access and modify compressed HTTP payloads without changing the content-encoding."
+  },
+  {
+    "author": "silentsignal",
+    "project": "burp-text4shell",
+    "url": "https://github.com/silentsignal/burp-text4shell",
+    "first_commit": "2022-10-18",
+    "last_commit": "2022-10-27",
+    "tags": "漏洞检测,Text4Shell,CVE检测",
+    "description": "CVE-2022-42889 Text4Shell漏洞扫描器"
+  },
+  {
+    "author": "capt-meelo",
+    "project": "filter-options-method",
+    "url": "https://github.com/capt-meelo/filter-options-method",
+    "first_commit": "2020-01-06",
+    "last_commit": "2022-10-01",
+    "tags": "流量处理",
+    "description": "A Burp extension that filters out OPTIONS requests from populating Burp's Proxy history."
+  },
+  {
+    "author": "TheKingOfDuck",
+    "project": "burpFakeIP",
+    "url": "https://github.com/TheKingOfDuck/burpFakeIP",
+    "first_commit": "2019-06-05",
+    "last_commit": "2022-09-29",
+    "tags": "IP伪造,配置测试,绕过技术",
+    "description": "IP地址伪造工具，用于测试服务器配置错误"
+  },
+  {
+    "author": "a1phaboy",
+    "project": "JsonDetect",
+    "url": "https://github.com/a1phaboy/JsonDetect",
+    "first_commit": "2022-09-16",
+    "last_commit": "2022-09-22",
+    "tags": "被动扫描,JSON库识别,依赖检测",
+    "description": "通过被动扫描识别JSON依赖库"
+  },
+  {
+    "author": "tagomaru",
+    "project": "burp-extension-postman-integration",
+    "url": "https://github.com/tagomaru/burp-extension-postman-integration",
+    "first_commit": "2018-07-31",
+    "last_commit": "2022-09-02",
+    "tags": "Burp扩展",
+    "description": "Postman Integration is an extension for burp to generate Postman collection fomat json file."
+  },
+  {
+    "author": "0kman",
+    "project": "OAuth2-Token-Grabber",
+    "url": "https://github.com/0kman/OAuth2-Token-Grabber",
+    "first_commit": "2022-05-20",
+    "last_commit": "2022-08-30",
+    "tags": "权限测试,流量处理",
+    "description": "Burpsuite Extension to grab OAuth2 access tokens and add them to requests as custom headers"
+  },
+  {
+    "author": "nchgroup",
+    "project": "Burp2Telegram",
+    "url": "https://github.com/nchgroup/Burp2Telegram",
+    "first_commit": "2022-06-13",
+    "last_commit": "2022-07-07",
+    "tags": "流量处理",
+    "description": "Push notifications to Telegram bot on BurpSuite response conditions."
+  },
+  {
+    "author": "srikanthramu",
+    "project": "webauthn-cbor-burp",
+    "url": "https://github.com/srikanthramu/webauthn-cbor-burp",
+    "first_commit": "2022-06-25",
+    "last_commit": "2022-07-05",
+    "tags": "权限测试",
+    "description": "Burp Extension to Decode WebAuthn CBOR"
+  },
+  {
+    "author": "pmiaowu",
+    "project": "BurpShiroPassiveScan",
+    "url": "https://github.com/pmiaowu/BurpShiroPassiveScan",
+    "first_commit": "2020-07-15",
+    "last_commit": "2022-06-30",
+    "tags": "被动扫描,Shiro检测,密钥检测",
+    "description": "被动Shiro框架检测和密钥检查"
+  },
+  {
+    "author": "pmiaowu",
+    "project": "BurpFastJsonScan",
+    "url": "https://github.com/pmiaowu/BurpFastJsonScan",
+    "first_commit": "2020-12-15",
+    "last_commit": "2022-06-26",
+    "tags": "被动检测,fastjson检测",
+    "description": "被动FastJson检测工具"
+  },
+  {
+    "author": "imthomas93",
+    "project": "Autowasp",
+    "url": "https://github.com/imthomas93/Autowasp",
+    "first_commit": "2021-02-02",
+    "last_commit": "2022-06-03",
+    "tags": "功能增强",
+    "description": "BurpSuite Extension: A one-stop pen testing checklist and logger tool"
+  },
+  {
+    "author": "LogicalTrust",
+    "project": "BurpExifToolScanner",
+    "url": "https://github.com/LogicalTrust/BurpExifToolScanner",
+    "first_commit": "2017-08-30",
+    "last_commit": "2022-05-16",
+    "tags": "主动扫描,功能增强",
+    "description": "Burp extension, reads metadata using ExifTool"
+  },
+  {
+    "author": "thomaspatzke",
+    "project": "Burp-MissingScannerChecks",
+    "url": "https://github.com/thomaspatzke/Burp-MissingScannerChecks",
+    "first_commit": "2013-08-07",
+    "last_commit": "2022-04-22",
+    "tags": "主动扫描",
+    "description": "Collection of scanner checks missing in Burp"
+  },
+  {
+    "author": "thomaspatzke",
+    "project": "Burp-SessionAuthTool",
+    "url": "https://github.com/thomaspatzke/Burp-SessionAuthTool",
+    "first_commit": "2013-03-08",
+    "last_commit": "2022-04-22",
+    "tags": "权限测试,功能增强",
+    "description": "Burp plugin which supports in finding privilege escalation vulnerabilities"
+  },
+  {
+    "author": "chopicalqui",
+    "project": "TurboDataMiner",
+    "url": "https://github.com/chopicalqui/TurboDataMiner",
+    "first_commit": "2020-05-29",
+    "last_commit": "2022-04-18",
+    "tags": "AI集成,流量处理",
+    "description": "The objective of this Burp Suite extension is the flexible and dynamic extraction, correlation, and structured presentation of information from the Burp Suite project as well as the flexible and dynamic on-the-fly modification of outgoing or incoming HTTP requests using Python scripts. Thus, Turbo Data Miner shall aid in gaining a better and faster understanding of the data collected by Burp Suite."
+  },
+  {
+    "author": "DanNegrea",
+    "project": "TokenJar",
+    "url": "https://github.com/DanNegrea/TokenJar",
+    "first_commit": "2016-06-01",
+    "last_commit": "2022-03-24",
+    "tags": "流量处理",
+    "description": "Burp Suite extension. Useful for managing tokens like anti-CSRF, CSurf, Session values. Can be used to set params that require random numbers or params that are computed based on application response."
+  },
+  {
+    "author": "phefley",
+    "project": "burp-javascript-security-extension",
+    "url": "https://github.com/phefley/burp-javascript-security-extension",
+    "first_commit": "2018-12-27",
+    "last_commit": "2022-03-23",
+    "tags": "AI集成",
+    "description": "A Burp Suite extension which performs checks for cross-domain scripting against the DOM, subresource integrity checks, and evaluates JavaScript resources against threat intelligence data."
+  },
+  {
+    "author": "ggg4566",
+    "project": "BurpBountyPlus",
+    "url": "https://github.com/ggg4566/BurpBountyPlus",
+    "first_commit": "2021-06-30",
+    "last_commit": "2022-03-21",
+    "tags": "功能增强,右键菜单,参数扫描",
+    "description": "BurpBounty增强版，支持右键菜单和单参数扫描"
+  },
+  {
+    "author": "skisw",
+    "project": "fastjson-exp",
+    "url": "https://github.com/skisw/fastjson-exp",
+    "first_commit": "2022-03-15",
+    "last_commit": "2022-03-15",
+    "tags": "漏洞利用,fastjson,JNDI,内存马",
+    "description": "fastjson利用工具，支持JNDI、Tomcat/Spring回显、内存马"
+  },
+  {
+    "author": "NetSPI",
+    "project": "xssValidator",
+    "url": "https://github.com/NetSPI/xssValidator",
+    "first_commit": "2014-01-11",
+    "last_commit": "2022-02-24",
+    "tags": "XSS检测",
+    "description": "This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities."
+  },
+  {
+    "author": "nccgroup",
+    "project": "WCFDSer-ngng",
+    "url": "https://github.com/nccgroup/WCFDSer-ngng",
+    "first_commit": "2015-04-14",
+    "last_commit": "2022-02-21",
+    "tags": "Burp扩展",
+    "description": "A Burp Extender plugin, that will make binary soap objects readable and modifiable."
+  },
+  {
+    "author": "S9MF",
+    "project": "sql-sup",
+    "url": "https://github.com/S9MF/sql-sup",
+    "first_commit": "2021-04-30",
+    "last_commit": "2022-02-09",
+    "tags": "参数处理,垃圾数据,字典生成",
+    "description": "参数溢出、垃圾数据、字典笛卡尔积"
+  },
+  {
+    "author": "silentsignal",
+    "project": "burp-uuid",
+    "url": "https://github.com/silentsignal/burp-uuid",
+    "first_commit": "2017-02-16",
+    "last_commit": "2022-02-07",
+    "tags": "Burp扩展",
+    "description": "UUID issues for Burp Suite"
+  },
+  {
+    "author": "GeoffWalton",
+    "project": "burp--Adhoc-Payload-Processors",
+    "url": "https://github.com/GeoffWalton/burp--Adhoc-Payload-Processors",
+    "first_commit": "2019-05-16",
+    "last_commit": "2022-01-18",
+    "tags": "Burp扩展",
+    "description": "Generate payload processors on the fly - without having to create individual extensions."
+  },
+  {
+    "author": "bit4woo",
+    "project": "domain_hunter",
+    "url": "https://github.com/bit4woo/domain_hunter",
+    "first_commit": "2017-07-26",
+    "last_commit": "2022-01-16",
+    "tags": "域名收集,企业资产,组织资产",
+    "description": "企业/组织域名收集"
+  },
+  {
+    "author": "Peithon",
+    "project": "JustC2file",
+    "url": "https://github.com/Peithon/JustC2file",
+    "first_commit": "2021-12-28",
+    "last_commit": "2022-01-15",
+    "tags": "C2配置,Cobalt Strike,配置生成",
+    "description": "Cobalt Strike的Malleable C2配置生成器"
+  },
+  {
+    "author": "bigsizeme",
+    "project": "Log4j-check",
+    "url": "https://github.com/bigsizeme/Log4j-check",
+    "first_commit": "2021-12-13",
+    "last_commit": "2021-12-13",
+    "tags": "被动检测,Log4j漏洞",
+    "description": "被动Log4j漏洞检测"
+  },
+  {
+    "author": "ethicalhackingplayground",
+    "project": "TProxer",
+    "url": "https://github.com/ethicalhackingplayground/TProxer",
+    "first_commit": "2021-11-20",
+    "last_commit": "2021-11-22",
+    "tags": "SSRF检测,反向代理,目录检测,Python",
+    "description": "基于Python的SSRF反向代理目录检测"
+  },
+  {
+    "author": "aress31",
+    "project": "copy-as-powershell-requests",
+    "url": "https://github.com/aress31/copy-as-powershell-requests",
+    "first_commit": "2018-01-25",
+    "last_commit": "2021-11-22",
+    "tags": "流量处理",
+    "description": "Copy as PowerShell request(s) plugin for Burp Suite (approved by PortSwigger for inclusion in their official BApp Store)."
+  },
+  {
+    "author": "bayotop",
+    "project": "off-by-slash",
+    "url": "https://github.com/bayotop/off-by-slash",
+    "first_commit": "2018-10-20",
+    "last_commit": "2021-11-18",
+    "tags": "被动扫描,加密解密",
+    "description": "Burp extension to detect alias traversal via NGINX misconfiguration at scale."
+  },
+  {
+    "author": "c0ny1",
+    "project": "chunked-coding-converter",
+    "url": "https://github.com/c0ny1/chunked-coding-converter",
+    "first_commit": "2019-03-14",
+    "last_commit": "2021-11-13",
+    "tags": "分块编码,WAF绕过",
+    "description": "分块输出用于WAF绕过"
+  },
+  {
+    "author": "akabe1",
+    "project": "upnp-bhunter",
+    "url": "https://github.com/akabe1/upnp-bhunter",
+    "first_commit": "2019-01-04",
+    "last_commit": "2021-11-09",
+    "tags": "Burp扩展",
+    "description": "Burp Suite Extension useful to inspect UPnP security"
+  },
+  {
+    "author": "federicodotta",
+    "project": "Java-Deserialization-Scanner",
+    "url": "https://github.com/federicodotta/Java-Deserialization-Scanner",
+    "first_commit": "2015-12-08",
+    "last_commit": "2021-11-07",
+    "tags": "主动扫描,被动扫描",
+    "description": "All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities"
+  },
+  {
+    "author": "nucleus-security",
+    "project": "Nucleus-Burp-Extension",
+    "url": "https://github.com/nucleus-security/Nucleus-Burp-Extension",
+    "first_commit": "2020-02-28",
+    "last_commit": "2021-10-08",
+    "tags": "Burp扩展",
+    "description": "Burp Extension for Nucleus"
+  },
+  {
+    "author": "lucacapacci",
+    "project": "SqlmapDnsCollaborator",
+    "url": "https://github.com/lucacapacci/SqlmapDnsCollaborator",
+    "first_commit": "2021-02-13",
+    "last_commit": "2021-10-07",
+    "tags": "SQL注入",
+    "description": "Burp Extension that lets you use Burp Collaborator as a DNS server for exfiltrating data via Sqlmap"
+  },
+  {
+    "author": "lorenzog",
+    "project": "burpAddCustomHeader",
+    "url": "https://github.com/lorenzog/burpAddCustomHeader",
+    "first_commit": "2018-05-07",
+    "last_commit": "2021-09-23",
+    "tags": "Burp扩展",
+    "description": "A Burp Suite extension to add a custom header (e.g. JWT)"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "httpoxy-scanner",
+    "url": "https://github.com/PortSwigger/httpoxy-scanner",
+    "first_commit": "2016-10-21",
+    "last_commit": "2021-08-25",
+    "tags": "官方扩展,主动扫描,流量处理",
+    "description": "A Burp Suite extension that checks for the HTTPoxy vulnerability."
+  },
+  {
+    "author": "PortSwigger",
+    "project": "waf-detect",
+    "url": "https://github.com/PortSwigger/waf-detect",
+    "first_commit": "2016-10-18",
+    "last_commit": "2021-08-25",
+    "tags": "官方扩展,被动扫描,WAF绕过",
+    "description": "Burp app (BApp) for detecting WAF fingerprints"
+  },
+  {
+    "author": "sting8k",
+    "project": "BurpSuite_403Bypasser",
+    "url": "https://github.com/sting8k/BurpSuite_403Bypasser",
+    "first_commit": "2020-11-12",
+    "last_commit": "2021-08-21",
+    "tags": "403绕过,Python,绕过测试",
+    "description": "基于Python的403绕过测试工具"
+  },
+  {
+    "author": "TypeError",
+    "project": "Bookmarks",
+    "url": "https://github.com/TypeError/Bookmarks",
+    "first_commit": "2019-12-07",
+    "last_commit": "2021-08-15",
+    "tags": "AI集成",
+    "description": "Reclaim control of your Burp Suite Repeater tabs with this powerful extension"
+  },
+  {
+    "author": "PentHertz",
+    "project": "5GC_API_parse",
+    "url": "https://github.com/PentHertz/5GC_API_parse",
+    "first_commit": "2021-07-18",
+    "last_commit": "2021-07-22",
+    "tags": "API安全",
+    "description": "A BurpSuite extension to parse 5GC NF OpenAPI 3.0 files to assess 5G core networks"
+  },
+  {
+    "author": "h3xstream",
+    "project": "http-script-generator",
+    "url": "https://github.com/h3xstream/http-script-generator",
+    "first_commit": "2013-11-17",
+    "last_commit": "2021-07-06",
+    "tags": "流量处理",
+    "description": "ZAP/Burp plugin that generate script to reproduce a specific HTTP request (Intended for fuzzing or scripted attacks)"
+  },
+  {
+    "author": "handbye",
+    "project": "base64encode",
+    "url": "https://github.com/handbye/base64encode",
+    "first_commit": "2021-04-01",
+    "last_commit": "2021-07-02",
+    "tags": "编码解码,Base64",
+    "description": "POST数据Base64编码工具"
+  },
+  {
+    "author": "nccgroup",
+    "project": "pcap-burp",
+    "url": "https://github.com/nccgroup/pcap-burp",
+    "first_commit": "2014-10-22",
+    "last_commit": "2021-06-27",
+    "tags": "Burp扩展",
+    "description": "Pcap importer for Burp"
+  },
+  {
+    "author": "Maskhe",
+    "project": "FastjsonScan",
+    "url": "https://github.com/Maskhe/FastjsonScan",
+    "first_commit": "2020-08-31",
+    "last_commit": "2021-06-18",
+    "tags": "fastjson检测,反序列化",
+    "description": "Fastjson反序列化检测"
+  },
+  {
+    "author": "SecurityInnovation",
+    "project": "AuthMatrix",
+    "url": "https://github.com/SecurityInnovation/AuthMatrix",
+    "first_commit": "2016-01-12",
+    "last_commit": "2021-06-15",
+    "tags": "权限测试",
+    "description": "AuthMatrix is a Burp Suite extension that provides a simple way to test authorization in web applications and web services."
+  },
+  {
+    "author": "b4dpxl",
+    "project": "Burp-Timestamp-Editor",
+    "url": "https://github.com/b4dpxl/Burp-Timestamp-Editor",
+    "first_commit": "2021-03-02",
+    "last_commit": "2021-05-27",
+    "tags": "Burp扩展",
+    "description": "Provides a popup menu to edit Unix timestamps in Burp message editors"
+  },
+  {
+    "author": "zilong3033",
+    "project": "fastjsonScan",
+    "url": "https://github.com/zilong3033/fastjsonScan",
+    "first_commit": "2021-01-18",
+    "last_commit": "2021-05-14",
+    "tags": "fastjson检测,dnslog,回显检测",
+    "description": "fastjson检测，支持dnslog和回显方法"
+  },
+  {
+    "author": "Ebryx",
+    "project": "AES-Killer",
+    "url": "https://github.com/Ebryx/AES-Killer",
+    "first_commit": "2018-09-24",
+    "last_commit": "2021-05-06",
+    "tags": "加密解密",
+    "description": "Burp Plugin to decrypt AES encrypted traffic on the fly"
+  },
+  {
+    "author": "jonluca",
+    "project": "Burp-Copy-As-Node",
+    "url": "https://github.com/jonluca/Burp-Copy-As-Node",
+    "first_commit": "2017-10-30",
+    "last_commit": "2021-04-20",
+    "tags": "流量处理",
+    "description": "Burp extension to copy a request as a node.js requests function"
+  },
+  {
+    "author": "d3vilbug",
+    "project": "HackBar",
+    "url": "https://github.com/d3vilbug/HackBar",
+    "first_commit": "2018-09-02",
+    "last_commit": "2021-04-15",
+    "tags": "HackBar,功能增强,快捷工具",
+    "description": "为Burp提供HackBar功能"
+  },
+  {
+    "author": "Ovi3",
+    "project": "BurpBeautifier",
+    "url": "https://github.com/Ovi3/BurpBeautifier",
+    "first_commit": "2019-11-15",
+    "last_commit": "2021-04-15",
+    "tags": "Burp扩展",
+    "description": "Burpsuite extension for beautifying writing in Jython"
+  },
+  {
+    "author": "nccgroup",
+    "project": "Decoder-Improved",
+    "url": "https://github.com/nccgroup/Decoder-Improved",
+    "first_commit": "2017-09-08",
+    "last_commit": "2021-04-13",
+    "tags": "Burp扩展",
+    "description": "Improved decoder for Burp Suite"
+  },
+  {
+    "author": "GuoKerS",
+    "project": "Charset_encoding-Burp",
+    "url": "https://github.com/GuoKerS/Charset_encoding-Burp",
+    "first_commit": "2020-10-27",
+    "last_commit": "2021-03-22",
+    "tags": "WAF绕过,字符集编码,绕过技术",
+    "description": "通过字符集编码绕过WAF"
+  },
+  {
+    "author": "bigsizeme",
+    "project": "shiro-check",
+    "url": "https://github.com/bigsizeme/shiro-check",
+    "first_commit": "2020-06-16",
+    "last_commit": "2021-03-15",
+    "tags": "Shiro检测,反序列化,回显检测",
+    "description": "Shiro反序列化回显检测"
+  },
+  {
+    "author": "GoSecure",
+    "project": "burp-ntlm-challenge-decoder",
+    "url": "https://github.com/GoSecure/burp-ntlm-challenge-decoder",
+    "first_commit": "2017-12-12",
+    "last_commit": "2021-03-11",
+    "tags": "AI集成",
+    "description": "Burp extension to decode NTLM SSP headers and extract domain/host information"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "viewstate-editor",
+    "url": "https://github.com/PortSwigger/viewstate-editor",
+    "first_commit": "2021-02-19",
+    "last_commit": "2021-02-23",
+    "tags": "官方扩展",
+    "description": "Burp extension to add a view state tab to the message editor"
+  },
+  {
+    "author": "chroblert",
+    "project": "JC-AntiToken",
+    "url": "https://github.com/chroblert/JC-AntiToken",
+    "first_commit": "2020-12-14",
+    "last_commit": "2021-01-16",
+    "tags": "防重放绕过,Token获取,Python",
+    "description": "基于Python的防重放绕过，支持自动Token获取"
+  },
+  {
+    "author": "0xd0ug",
+    "project": "burpExtensions-clipboardRepeater",
+    "url": "https://github.com/0xd0ug/burpExtensions-clipboardRepeater",
+    "first_commit": "2021-01-11",
+    "last_commit": "2021-01-16",
+    "tags": "Burp扩展",
+    "description": ""
+  },
+  {
+    "author": "nian-hua",
+    "project": "BurpExtender",
+    "url": "https://github.com/nian-hua/BurpExtender",
+    "first_commit": "2019-03-16",
+    "last_commit": "2021-01-13",
+    "tags": "敏感信息,智能分析,响应分析",
+    "description": "从响应中发现敏感信息"
+  },
+  {
+    "author": "ScriptKid-Beta",
+    "project": "Unexpected_information",
+    "url": "https://github.com/ScriptKid-Beta/Unexpected_information",
+    "first_commit": "2020-09-12",
+    "last_commit": "2021-01-04",
+    "tags": "信息标记,敏感信息,JS API,字段识别",
+    "description": "标记敏感信息、JS API、特殊字段"
+  },
+  {
+    "author": "synacktiv",
+    "project": "burp-jq",
+    "url": "https://github.com/synacktiv/burp-jq",
+    "first_commit": "2020-11-12",
+    "last_commit": "2020-12-24",
+    "tags": "流量处理",
+    "description": "Burp extension to filter JSON on the fly with JQ queries in the HTTP message viewer."
+  },
+  {
+    "author": "hvqzao",
+    "project": "burp-flow",
+    "url": "https://github.com/hvqzao/burp-flow",
+    "first_commit": "2015-09-10",
+    "last_commit": "2020-12-16",
+    "tags": "流量处理,功能增强",
+    "description": "Extension providing view with filtering capabilities for both complete and incomplete requests from all burp tools."
+  },
+  {
+    "author": "Leoid",
+    "project": "Burp2Slack",
+    "url": "https://github.com/Leoid/Burp2Slack",
+    "first_commit": "2020-11-24",
+    "last_commit": "2020-11-26",
+    "tags": "流量处理",
+    "description": "Push notifications to Slack channel or to custom server based on BurpSuite response conditions."
+  },
+  {
+    "author": "FSecureLABS",
+    "project": "timeinator",
+    "url": "https://github.com/FSecureLABS/timeinator",
+    "first_commit": "2019-04-02",
+    "last_commit": "2020-10-15",
+    "tags": "Burp扩展",
+    "description": "Timeinator is an extension for Burp Suite that can be used to perform timing attacks over an unreliable network such as the internet."
+  },
+  {
+    "author": "pathetiq",
+    "project": "BurpSmartBuster",
+    "url": "https://github.com/pathetiq/BurpSmartBuster",
+    "first_commit": "2016-07-29",
+    "last_commit": "2020-10-12",
+    "tags": "Burp扩展",
+    "description": "A Burp Suite content discovery plugin that add the smart into the Buster!"
+  },
+  {
+    "author": "nccgroup",
+    "project": "AutoRepeater",
+    "url": "https://github.com/nccgroup/AutoRepeater",
+    "first_commit": "2018-01-26",
+    "last_commit": "2020-10-08",
+    "tags": "流量处理",
+    "description": "Automated HTTP Request Repeating With Burp Suite"
+  },
+  {
+    "author": "theLSA",
+    "project": "burp-unauth-checker",
+    "url": "https://github.com/theLSA/burp-unauth-checker",
+    "first_commit": "2020-10-02",
+    "last_commit": "2020-10-07",
+    "tags": "未授权检测,自动化",
+    "description": "自动化未授权访问检测"
+  },
+  {
+    "author": "seisvelas",
+    "project": "SAN-Scanner",
+    "url": "https://github.com/seisvelas/SAN-Scanner",
+    "first_commit": "2020-09-27",
+    "last_commit": "2020-10-01",
+    "tags": "主动扫描,被动扫描",
+    "description": "Burp Suite extension for passively discovering Subject Alt Names in SSL/TLS certificates"
+  },
+  {
+    "author": "c0ny1",
+    "project": "captcha-killer",
+    "url": "https://github.com/c0ny1/captcha-killer",
+    "first_commit": "2019-10-11",
+    "last_commit": "2020-09-28",
+    "tags": "验证码识别,API调用",
+    "description": "验证码识别API调用器"
+  },
+  {
+    "author": "boy-hack",
+    "project": "wooyun-payload",
+    "url": "https://github.com/boy-hack/wooyun-payload",
+    "first_commit": "2019-11-10",
+    "last_commit": "2020-09-02",
+    "tags": "Payload提取,乌云数据",
+    "description": "从乌云提取Payload"
+  },
+  {
+    "author": "xer0times",
+    "project": "SQLi-Query-Tampering",
+    "url": "https://github.com/xer0times/SQLi-Query-Tampering",
+    "first_commit": "2020-08-09",
+    "last_commit": "2020-08-21",
+    "tags": "SQL注入,WAF绕过",
+    "description": "SQLi Query Tampering extends and adds custom Payload Generator/Processor in Burp Suite's Intruder.  This extension gives you the flexibility of manual testing with many powerful evasion techniques."
+  },
+  {
+    "author": "Conanjun",
+    "project": "passive-scan-client-and-sendto",
+    "url": "https://github.com/Conanjun/passive-scan-client-and-sendto",
+    "first_commit": "2020-08-14",
+    "last_commit": "2020-08-14",
+    "tags": "被动扫描,自动转发,手动重发",
+    "description": "被动扫描自动转发和手动重发"
+  },
+  {
+    "author": "Hxzeroone",
+    "project": "quoted-printable-Parser",
+    "url": "https://github.com/Hxzeroone/quoted-printable-Parser",
+    "first_commit": "2020-08-08",
+    "last_commit": "2020-08-08",
+    "tags": "AI集成",
+    "description": "A Burp Suite extension to parse Content-Transfer-Encoding: quoted-printable emails received in Burpcollaborator's SMTP"
+  },
+  {
+    "author": "potats0",
+    "project": "shiroPoc",
+    "url": "https://github.com/potats0/shiroPoc",
+    "first_commit": "2020-07-26",
+    "last_commit": "2020-08-06",
+    "tags": "Shiro漏洞,回显插件,被动扫描",
+    "description": "Shiro回显插件，支持被动扫描"
+  },
+  {
+    "author": "luh2",
+    "project": "DetectDynamicJS",
+    "url": "https://github.com/luh2/DetectDynamicJS",
+    "first_commit": "2015-12-15",
+    "last_commit": "2020-08-06",
+    "tags": "AI集成,主动扫描,被动扫描",
+    "description": "The DetectDynamicJS Burp Extension provides an additional passive scanner that tries to find differing content in JavaScript files and aid in finding user/session data."
+  },
+  {
+    "author": "NetSPI",
+    "project": "JavaSerialKiller",
+    "url": "https://github.com/NetSPI/JavaSerialKiller",
+    "first_commit": "2016-03-06",
+    "last_commit": "2020-07-17",
+    "tags": "Burp扩展",
+    "description": "Burp extension to perform Java Deserialization Attacks"
+  },
+  {
+    "author": "vsec7",
+    "project": "BurpSuite-Xkeys",
+    "url": "https://github.com/vsec7/BurpSuite-Xkeys",
+    "first_commit": "2020-06-15",
+    "last_commit": "2020-06-19",
+    "tags": "敏感信息,信息提取",
+    "description": "从网页中提取敏感信息"
+  },
+  {
+    "author": "jas502n",
+    "project": "Burp_AES_Plugin",
+    "url": "https://github.com/jas502n/Burp_AES_Plugin",
+    "first_commit": "2020-06-17",
+    "last_commit": "2020-06-17",
+    "tags": "AES加密,CBC模式,爆破工具",
+    "description": "AES CBC模式爆破工具"
+  },
+  {
+    "author": "bugpoc-ryan",
+    "project": "BugPoC-Burp-Extension",
+    "url": "https://github.com/bugpoc-ryan/BugPoC-Burp-Extension",
+    "first_commit": "2020-06-08",
+    "last_commit": "2020-06-08",
+    "tags": "流量处理",
+    "description": "Burp Suite Extension to send raw HTTP Requests to BugPoC.com"
+  },
+  {
+    "author": "ldionmarcil",
+    "project": "burp-samesite-reporter",
+    "url": "https://github.com/ldionmarcil/burp-samesite-reporter",
+    "first_commit": "2020-06-01",
+    "last_commit": "2020-06-01",
+    "tags": "被动扫描",
+    "description": "Burp extension that passively reports various SameSite flags"
+  },
+  {
+    "author": "tijme",
+    "project": "similar-request-excluder",
+    "url": "https://github.com/tijme/similar-request-excluder",
+    "first_commit": "2018-04-11",
+    "last_commit": "2020-05-01",
+    "tags": "流量处理",
+    "description": "A Burp Suite extension that automatically marks similar requests as 'out-of-scope'."
+  },
+  {
+    "author": "h3xstream",
+    "project": "burp-image-metadata",
+    "url": "https://github.com/h3xstream/burp-image-metadata",
+    "first_commit": "2014-08-16",
+    "last_commit": "2020-04-29",
+    "tags": "Burp扩展",
+    "description": "Burp and ZAP plugin that display image metadata (JPEG Exif or PNG text chunk)."
+  },
+  {
+    "author": "GoSecure",
+    "project": "csp-auditor",
+    "url": "https://github.com/GoSecure/csp-auditor",
+    "first_commit": "2016-03-16",
+    "last_commit": "2020-04-29",
+    "tags": "主动扫描",
+    "description": "Burp and ZAP plugin to analyse Content-Security-Policy headers or generate template CSP configuration from crawling a Website"
+  },
+  {
+    "author": "modzero",
+    "project": "mod0BurpUploadScanner",
+    "url": "https://github.com/modzero/mod0BurpUploadScanner",
+    "first_commit": "2018-06-18",
+    "last_commit": "2020-04-29",
+    "tags": "主动扫描,流量处理",
+    "description": "HTTP file upload scanner for Burp Proxy"
+  },
+  {
+    "author": "TheKingOfDuck",
+    "project": "burpJsEncrypter",
+    "url": "https://github.com/TheKingOfDuck/burpJsEncrypter",
+    "first_commit": "2020-03-22",
+    "last_commit": "2020-04-15",
+    "tags": "前端加密,加密解决方案",
+    "description": "解决前端加密问题"
+  },
+  {
+    "author": "NetSPI",
+    "project": "Burp-Extensions",
+    "url": "https://github.com/NetSPI/Burp-Extensions",
+    "first_commit": "2012-11-21",
+    "last_commit": "2020-04-10",
+    "tags": "Burp扩展",
+    "description": "Central Repo for Burp extensions"
+  },
+  {
+    "author": "uknowsec",
+    "project": "BurpSuite-Extender-fastjson",
+    "url": "https://github.com/uknowsec/BurpSuite-Extender-fastjson",
+    "first_commit": "2020-03-07",
+    "last_commit": "2020-03-07",
+    "tags": "fastjson检测,自动检测",
+    "description": "自动检测fastjson 1.2.24和1.2.47"
+  },
+  {
+    "author": "dariusztytko",
+    "project": "progress-burp",
+    "url": "https://github.com/dariusztytko/progress-burp",
+    "first_commit": "2020-02-21",
+    "last_commit": "2020-03-07",
+    "tags": "Burp扩展",
+    "description": "Burp Suite extension to track vulnerability assessment progress"
+  },
+  {
+    "author": "c0ny1",
+    "project": "jsEncrypter",
+    "url": "https://github.com/c0ny1/jsEncrypter",
+    "first_commit": "2017-12-16",
+    "last_commit": "2020-03-06",
+    "tags": "前端加密,PhantomJS",
+    "description": "使用PhantomJS调用前端加密函数"
+  },
+  {
+    "author": "Static-Flow",
+    "project": "BurpSuiteShareRequests",
+    "url": "https://github.com/Static-Flow/BurpSuiteShareRequests",
+    "first_commit": "2020-01-06",
+    "last_commit": "2020-03-05",
+    "tags": "流量处理",
+    "description": "This Burp Suite extension enables the generation of shareable links to specific requests which other Burp Suite users can import."
+  },
+  {
+    "author": "morkin1792",
+    "project": "cypher-injection-scanner",
+    "url": "https://github.com/morkin1792/cypher-injection-scanner",
+    "first_commit": "2019-12-09",
+    "last_commit": "2019-12-19",
+    "tags": "主动扫描,被动扫描,SQL注入",
+    "description": "Burp Suite Extension that detects Cypher code injection"
+  },
+  {
+    "author": "Regala",
+    "project": "burp-subdomains",
+    "url": "https://github.com/Regala/burp-subdomains",
+    "first_commit": "2019-04-22",
+    "last_commit": "2019-11-29",
+    "tags": "AI集成,功能增强",
+    "description": "Burp Suite extension to easily export sub domains"
+  },
+  {
+    "author": "Regala",
+    "project": "burp-scope-monitor",
+    "url": "https://github.com/Regala/burp-scope-monitor",
+    "first_commit": "2019-08-10",
+    "last_commit": "2019-11-27",
+    "tags": "被动扫描",
+    "description": "Burp Suite Extension to monitor new scope"
+  },
+  {
+    "author": "c0ny1",
+    "project": "sqlmap4burp-plus-plus",
+    "url": "https://github.com/c0ny1/sqlmap4burp-plus-plus",
+    "first_commit": "2019-09-01",
+    "last_commit": "2019-11-07",
+    "tags": "sqlmap集成,多平台,SQL注入",
+    "description": "多平台sqlmap集成"
+  },
+  {
+    "author": "tmendo",
+    "project": "BurpIntruderFilePayloadGenerator",
+    "url": "https://github.com/tmendo/BurpIntruderFilePayloadGenerator",
+    "first_commit": "2015-08-22",
+    "last_commit": "2019-10-27",
+    "tags": "Burp扩展",
+    "description": "Burp Intruder File Payload Generator"
+  },
+  {
+    "author": "thomaspatzke",
+    "project": "WASE",
+    "url": "https://github.com/thomaspatzke/WASE",
+    "first_commit": "2016-02-20",
+    "last_commit": "2019-09-18",
+    "tags": "主动扫描,流量处理",
+    "description": "The Web Audit Search Engine - Index and Search HTTP Requests and Responses in Web Application Audits with ElasticSearch"
+  },
+  {
+    "author": "Manjesh24",
+    "project": "JSON-JS-Beautifier",
+    "url": "https://github.com/Manjesh24/JSON-JS-Beautifier",
+    "first_commit": "2019-07-22",
+    "last_commit": "2019-09-17",
+    "tags": "Burp扩展",
+    "description": "Burp Suite JSON/JS-Beautifier"
+  },
+  {
+    "author": "arbazkiraak",
+    "project": "BurpBLH",
+    "url": "https://github.com/arbazkiraak/BurpBLH",
+    "first_commit": "2018-11-25",
+    "last_commit": "2019-09-13",
+    "tags": "Burp扩展",
+    "description": "Broken Link Hijacking Burp Extension"
+  },
+  {
+    "author": "NetsOSS",
+    "project": "headless-burp",
+    "url": "https://github.com/NetsOSS/headless-burp",
+    "first_commit": "2015-09-09",
+    "last_commit": "2019-08-20",
+    "tags": "Burp扩展",
+    "description": "Automate security tests using Burp Suite."
+  },
+  {
+    "author": "elespike",
+    "project": "burp-cph",
+    "url": "https://github.com/elespike/burp-cph",
+    "first_commit": "2016-04-26",
+    "last_commit": "2019-08-17",
+    "tags": "参数提取,请求响应分析",
+    "description": "从请求/响应中提取参数"
+  },
+  {
+    "author": "kacperszurek",
+    "project": "burp_wp",
+    "url": "https://github.com/kacperszurek/burp_wp",
+    "first_commit": "2018-01-21",
+    "last_commit": "2019-07-30",
+    "tags": "流量处理",
+    "description": "Find known vulnerabilities in WordPress plugins and themes using Burp Suite proxy. WPScan like plugin for Burp."
+  },
+  {
+    "author": "codingo",
+    "project": "Minesweeper",
+    "url": "https://github.com/codingo/Minesweeper",
+    "first_commit": "2018-01-30",
+    "last_commit": "2019-07-08",
+    "tags": "AI集成,被动扫描,加密解密",
+    "description": "A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 23000 malicious cryptocurrency mining domains (cryptojacking)."
+  },
+  {
+    "author": "RUB-NDS",
+    "project": "BurpSSOExtension",
+    "url": "https://github.com/RUB-NDS/BurpSSOExtension",
+    "first_commit": "2015-05-11",
+    "last_commit": "2019-06-24",
+    "tags": "流量处理",
+    "description": "An extension for BurpSuite that highlights SSO messages in Burp's proxy window.."
+  },
+  {
+    "author": "Bort-Millipede",
+    "project": "Burp-JVM-Property-Editor",
+    "url": "https://github.com/Bort-Millipede/Burp-JVM-Property-Editor",
+    "first_commit": "2016-12-09",
+    "last_commit": "2019-06-17",
+    "tags": "Burp扩展",
+    "description": "Small Burp Suite (Free or Professional) Extension to allow the user to view/add/modify/delete JVM System Properties during Burp usage. May be helpful to some for the purpose of viewing preset property values or setting options for other extensions during runtime rather than on the command line."
+  },
+  {
+    "author": "SolomonSklash",
+    "project": "sri-check",
+    "url": "https://github.com/SolomonSklash/sri-check",
+    "first_commit": "2018-09-14",
+    "last_commit": "2019-06-12",
+    "tags": "Burp扩展",
+    "description": "A Burp Suite extension for identifying missing Subresource Integrity attributes."
+  },
+  {
+    "author": "SolomonSklash",
+    "project": "cookie-decrypter",
+    "url": "https://github.com/SolomonSklash/cookie-decrypter",
+    "first_commit": "2018-09-10",
+    "last_commit": "2019-06-12",
+    "tags": "加密解密",
+    "description": "A Burp Suite Professional extension for decrypting/decoding various types of cookies."
+  },
+  {
+    "author": "denniskniep",
+    "project": "GQLRaider",
+    "url": "https://github.com/denniskniep/GQLRaider",
+    "first_commit": "2019-05-24",
+    "last_commit": "2019-05-25",
+    "tags": "AI集成",
+    "description": "GQL Burp Extension"
+  },
+  {
+    "author": "nccgroup",
+    "project": "BurpSuiteHTTPSmuggler",
+    "url": "https://github.com/nccgroup/BurpSuiteHTTPSmuggler",
+    "first_commit": "2018-07-04",
+    "last_commit": "2019-05-04",
+    "tags": "HTTP走私,WAF绕过",
+    "description": "WAF绕过辅助工具"
+  },
+  {
+    "author": "jamesm0rr1s",
+    "project": "BurpSuite-Active-AutoProxy",
+    "url": "https://github.com/jamesm0rr1s/BurpSuite-Active-AutoProxy",
+    "first_commit": "2017-12-28",
+    "last_commit": "2019-04-19",
+    "tags": "流量处理",
+    "description": "Active AutoProxy is a Burp Suite extension that allows users to easily configure their proxy settings, create custom rules, search requests and responses for information, and block malicious content on web pages, while centralizing the location of the proxy management and the proxy history on the same page."
+  },
+  {
+    "author": "xorrbit",
+    "project": "Burp-NessusLoader",
+    "url": "https://github.com/xorrbit/Burp-NessusLoader",
+    "first_commit": "2019-03-22",
+    "last_commit": "2019-03-29",
+    "tags": "被动扫描",
+    "description": "Burp Suite extension to import detected web servers from a Nessus scan xml file (.nessus)"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "burp-jenkins-integration",
+    "url": "https://github.com/PortSwigger/burp-jenkins-integration",
+    "first_commit": "2018-08-07",
+    "last_commit": "2019-03-19",
+    "tags": "官方扩展",
+    "description": "DAST integration with Jenkins"
+  },
+  {
+    "author": "PeachTech",
+    "project": "peachapisec-burp",
+    "url": "https://github.com/PeachTech/peachapisec-burp",
+    "first_commit": "2018-11-29",
+    "last_commit": "2018-12-07",
+    "tags": "API安全",
+    "description": "Peach API Security Burp Integration"
+  },
+  {
+    "author": "ax",
+    "project": "burp-logs",
+    "url": "https://github.com/ax/burp-logs",
+    "first_commit": "2018-11-14",
+    "last_commit": "2018-11-20",
+    "tags": "Burp扩展",
+    "description": "Logs is a Burp Suite extension to work with log files."
+  },
+  {
+    "author": "bao7uo",
+    "project": "BurpelFish",
+    "url": "https://github.com/bao7uo/BurpelFish",
+    "first_commit": "2018-11-14",
+    "last_commit": "2018-11-15",
+    "tags": "Burp扩展",
+    "description": "BurpelFish - Adds Google Translate to Burp's Context Menu. \"Babel Fish\" language translation for app-sec testing in other languages."
+  },
+  {
+    "author": "CoastalHacking",
+    "project": "burp-pac",
+    "url": "https://github.com/CoastalHacking/burp-pac",
+    "first_commit": "2017-09-23",
+    "last_commit": "2018-10-30",
+    "tags": "流量处理",
+    "description": "Burp Proxy Auto-config Extension"
+  },
+  {
+    "author": "ikkisoft",
+    "project": "blazer",
+    "url": "https://github.com/ikkisoft/blazer",
+    "first_commit": "2014-04-30",
+    "last_commit": "2018-09-24",
+    "tags": "Burp扩展",
+    "description": "Burp Suite AMF Extension"
+  },
+  {
+    "author": "BeDefended",
+    "project": "RequestHighlighter",
+    "url": "https://github.com/BeDefended/RequestHighlighter",
+    "first_commit": "2018-06-29",
+    "last_commit": "2018-07-23",
+    "tags": "流量处理",
+    "description": "Burp Suite extension that automatically highlights different HTTP requests"
+  },
+  {
+    "author": "PalmPTSJ",
+    "project": "burp-ssl-scanner",
+    "url": "https://github.com/PalmPTSJ/burp-ssl-scanner",
+    "first_commit": "2018-07-06",
+    "last_commit": "2018-07-17",
+    "tags": "主动扫描",
+    "description": "Burp Suite plugin for scanning SSL vulnerabilities."
+  },
+  {
+    "author": "silentsignal",
+    "project": "burp-image-size",
+    "url": "https://github.com/silentsignal/burp-image-size",
+    "first_commit": "2016-02-10",
+    "last_commit": "2018-06-27",
+    "tags": "Burp扩展",
+    "description": "Image size issues plugin for Burp Suite"
+  },
+  {
+    "author": "NetSPI",
+    "project": "Wsdler",
+    "url": "https://github.com/NetSPI/Wsdler",
+    "first_commit": "2013-02-19",
+    "last_commit": "2018-06-25",
+    "tags": "Burp扩展",
+    "description": "WSDL Parser extension for Burp"
+  },
+  {
+    "author": "ah8r",
+    "project": "csrf",
+    "url": "https://github.com/ah8r/csrf",
+    "first_commit": "2014-03-27",
+    "last_commit": "2018-06-05",
+    "tags": "主动扫描",
+    "description": "CSRF Scanner Extension for Burp Suite Pro"
+  },
+  {
+    "author": "federicodotta",
+    "project": "HandyCollaborator",
+    "url": "https://github.com/federicodotta/HandyCollaborator",
+    "first_commit": "2017-09-13",
+    "last_commit": "2018-06-01",
+    "tags": "功能增强",
+    "description": "Burp Suite plugin created for using Collaborator tool during manual testing in a comfortable way!"
+  },
+  {
+    "author": "P3GLEG",
+    "project": "PwnBack",
+    "url": "https://github.com/P3GLEG/PwnBack",
+    "first_commit": "2017-03-27",
+    "last_commit": "2018-05-08",
+    "tags": "Burp扩展",
+    "description": "Burp Extender plugin that generates a sitemap of a website using Wayback Machine"
+  },
+  {
+    "author": "aur3lius-dev",
+    "project": "SpyDir",
+    "url": "https://github.com/aur3lius-dev/SpyDir",
+    "first_commit": "2016-07-06",
+    "last_commit": "2018-04-11",
+    "tags": "Burp扩展",
+    "description": "BurpSuite extension to assist with Automated Forced Browsing/Endpoint Enumeration"
+  },
+  {
+    "author": "securifybv",
+    "project": "PHPUnserializeCheck",
+    "url": "https://github.com/securifybv/PHPUnserializeCheck",
+    "first_commit": "2017-02-27",
+    "last_commit": "2018-03-15",
+    "tags": "主动扫描",
+    "description": "PHP Unserialize Check - Burp Scanner Extension"
+  },
+  {
+    "author": "bao7uo",
+    "project": "target-redirector",
+    "url": "https://github.com/bao7uo/target-redirector",
+    "first_commit": "2018-01-07",
+    "last_commit": "2018-03-02",
+    "tags": "流量处理",
+    "description": "Target Redirector is a Burp Suite Extension written in Kotlin, which redirects all Burp requests destined for a chosen target to a different target of your choice. The hostname/IP, port and protocol (HTTP/HTTPS) can all be configured to an alternative destination."
+  },
+  {
+    "author": "PortSwigger",
+    "project": "activation-script",
+    "url": "https://github.com/PortSwigger/activation-script",
+    "first_commit": "2018-01-19",
+    "last_commit": "2018-01-19",
+    "tags": "官方扩展",
+    "description": "Activate Burp from a script"
+  },
+  {
+    "author": "bao7uo",
+    "project": "waf-cookie-fetcher",
+    "url": "https://github.com/bao7uo/waf-cookie-fetcher",
+    "first_commit": "2018-01-04",
+    "last_commit": "2018-01-16",
+    "tags": "AI集成,WAF绕过",
+    "description": "WAF Cookie Fetcher is a Burp Suite extension written in Python, which uses a headless browser to obtain the values of WAF-injected cookies which are calculated in the browser by client-side JavaScript code and adds them to Burp's cookie jar. Requires PhantomJS."
+  },
+  {
+    "author": "maxence-schmitt",
+    "project": "OfficeOpenXMLEditor",
+    "url": "https://github.com/maxence-schmitt/OfficeOpenXMLEditor",
+    "first_commit": "2017-11-14",
+    "last_commit": "2017-11-26",
+    "tags": "Burp扩展",
+    "description": "Burp extension that add a tab to edit Office Open XML document (xlsx,docx,pptx)"
+  },
+  {
+    "author": "SpiderLabs",
+    "project": "Airachnid-Burp-Extension",
+    "url": "https://github.com/SpiderLabs/Airachnid-Burp-Extension",
+    "first_commit": "2017-05-09",
+    "last_commit": "2017-11-23",
+    "tags": "AI集成",
+    "description": "A Burp Extension to test applications for vulnerability to the Web Cache Deception attack"
+  },
+  {
+    "author": "inode-",
+    "project": "AttackSelector",
+    "url": "https://github.com/inode-/AttackSelector",
+    "first_commit": "2017-10-22",
+    "last_commit": "2017-11-23",
+    "tags": "Burp扩展",
+    "description": "Burp Suite Attack Selector Plugin"
+  },
+  {
+    "author": "tan-yaka",
+    "project": "burp-timer",
+    "url": "https://github.com/tan-yaka/burp-timer",
+    "first_commit": "2017-02-01",
+    "last_commit": "2017-11-08",
+    "tags": "流量处理",
+    "description": "Burp request/response timer"
+  },
+  {
+    "author": "lair-framework",
+    "project": "burp-extension",
+    "url": "https://github.com/lair-framework/burp-extension",
+    "first_commit": "2014-05-16",
+    "last_commit": "2017-10-18",
+    "tags": "AI集成",
+    "description": "A BurpSuite extension for lair"
+  },
+  {
+    "author": "NetSPI",
+    "project": "JSONBeautifier",
+    "url": "https://github.com/NetSPI/JSONBeautifier",
+    "first_commit": "2017-04-22",
+    "last_commit": "2017-10-02",
+    "tags": "Burp扩展",
+    "description": "JSON Beautifier for Burp written in Java"
+  },
+  {
+    "author": "pentestpartners",
+    "project": "fista",
+    "url": "https://github.com/pentestpartners/fista",
+    "first_commit": "2017-09-29",
+    "last_commit": "2017-10-02",
+    "tags": "Burp扩展",
+    "description": "A Burp Extender plugin allowing decoding of fastinfoset encoded communications."
+  },
+  {
+    "author": "aurainfosec",
+    "project": "burp-multi-browser-highlighting",
+    "url": "https://github.com/aurainfosec/burp-multi-browser-highlighting",
+    "first_commit": "2017-07-12",
+    "last_commit": "2017-09-21",
+    "tags": "流量处理",
+    "description": "Highlight Burp proxy requests made by different browsers"
+  },
+  {
+    "author": "moradotai",
+    "project": "CMS-Scan",
+    "url": "https://github.com/moradotai/CMS-Scan",
+    "first_commit": "2017-09-21",
+    "last_commit": "2017-09-21",
+    "tags": "主动扫描",
+    "description": "An active scan extension for Burp that provides supplemental coverage when testing popular content management systems."
+  },
+  {
+    "author": "SpiderLabs",
+    "project": "burplay",
+    "url": "https://github.com/SpiderLabs/burplay",
+    "first_commit": "2017-09-14",
+    "last_commit": "2017-09-19",
+    "tags": "AI集成,权限测试,流量处理",
+    "description": "Burplay is a Burp Extension allowing for replaying any number of requests using same modifications definition. Its main purpose is to aid in searching for Privilege Escalation issues."
+  },
+  {
+    "author": "ikkisoft",
+    "project": "bradamsa",
+    "url": "https://github.com/ikkisoft/bradamsa",
+    "first_commit": "2014-05-02",
+    "last_commit": "2017-09-07",
+    "tags": "Burp扩展",
+    "description": "Burp Suite extension to generate Intruder payloads using Radamsa"
+  },
+  {
+    "author": "LogicalTrust",
+    "project": "BurpSessionHandlingMatchReplace",
+    "url": "https://github.com/LogicalTrust/BurpSessionHandlingMatchReplace",
+    "first_commit": "2017-07-04",
+    "last_commit": "2017-08-15",
+    "tags": "Burp扩展",
+    "description": "Burp extension provides match and replace function as Session Handling Rule"
+  },
+  {
+    "author": "thec00n",
+    "project": "Uploader",
+    "url": "https://github.com/thec00n/Uploader",
+    "first_commit": "2017-07-16",
+    "last_commit": "2017-08-02",
+    "tags": "加密解密",
+    "description": "Burp extension to test for directory traversal attacks in insecure file uploads"
+  },
+  {
+    "author": "fruh",
+    "project": "ExtendedMacro",
+    "url": "https://github.com/fruh/ExtendedMacro",
+    "first_commit": "2016-10-11",
+    "last_commit": "2017-06-21",
+    "tags": "Burp扩展",
+    "description": "ExtendedMacro - BurpSuite plugin providing extended macro functionality"
+  },
+  {
+    "author": "cnotin",
+    "project": "burp-scan-manual-insertion-point",
+    "url": "https://github.com/cnotin/burp-scan-manual-insertion-point",
+    "first_commit": "2017-05-18",
+    "last_commit": "2017-05-26",
+    "tags": "Burp扩展",
+    "description": "Burp Suite Pro extension"
+  },
+  {
+    "author": "LinkedInAttic",
+    "project": "sometime",
+    "url": "https://github.com/LinkedInAttic/sometime",
+    "first_commit": "2016-10-12",
+    "last_commit": "2017-04-18",
+    "tags": "被动扫描",
+    "description": "A BurpSuite plugin to detect Same Origin Method Execution vulnerabilities"
+  },
+  {
+    "author": "AOCorsaire",
+    "project": "Meth0dMan",
+    "url": "https://github.com/AOCorsaire/Meth0dMan",
+    "first_commit": "2016-03-11",
+    "last_commit": "2017-03-31",
+    "tags": "AI集成,流量处理",
+    "description": "Meth0dMan is a Burp Suite extension to aid in testing HTTP Methods"
+  },
+  {
+    "author": "codewatchorg",
+    "project": "bypasswaf",
+    "url": "https://github.com/codewatchorg/bypasswaf",
+    "first_commit": "2014-11-17",
+    "last_commit": "2017-03-26",
+    "tags": "WAF绕过,绕过工具",
+    "description": "WAF绕过工具"
+  },
+  {
+    "author": "dobin",
+    "project": "BurpSentinel",
+    "url": "https://github.com/dobin/BurpSentinel",
+    "first_commit": "2012-12-31",
+    "last_commit": "2017-03-26",
+    "tags": "Burp扩展",
+    "description": "GUI Burp Plugin to ease discovering of security holes in web applications"
+  },
+  {
+    "author": "PortSwigger",
+    "project": "example-intruder-payloads",
+    "url": "https://github.com/PortSwigger/example-intruder-payloads",
+    "first_commit": "2017-02-14",
+    "last_commit": "2017-03-08",
+    "tags": "官方扩展",
+    "description": ""
+  },
+  {
+    "author": "PortSwigger",
+    "project": "example-scanner-checks",
+    "url": "https://github.com/PortSwigger/example-scanner-checks",
+    "first_commit": "2017-02-14",
+    "last_commit": "2017-02-23",
+    "tags": "官方扩展,主动扫描",
+    "description": ""
+  },
+  {
+    "author": "NetSPI",
+    "project": "JSWS",
+    "url": "https://github.com/NetSPI/JSWS",
+    "first_commit": "2017-02-13",
+    "last_commit": "2017-02-14",
+    "tags": "流量处理",
+    "description": "JavaScript Web Service Proxy Burp Plugin"
+  },
+  {
+    "author": "WJDigby",
+    "project": "current_epoch_time.py",
+    "url": "https://github.com/WJDigby/current_epoch_time.py",
+    "first_commit": "2017-02-06",
+    "last_commit": "2017-02-06",
+    "tags": "AI集成,流量处理",
+    "description": "Contains plugin for including current epoch time in intruder requests"
+  },
+  {
+    "author": "ngregoire",
+    "project": "reverse-proxy-detector",
+    "url": "https://github.com/ngregoire/reverse-proxy-detector",
+    "first_commit": "2017-01-17",
+    "last_commit": "2017-01-23",
+    "tags": "被动扫描,流量处理",
+    "description": ""
+  },
+  {
+    "author": "AverageBusinessUser",
+    "project": "burpChat",
+    "url": "https://github.com/AverageBusinessUser/burpChat",
+    "first_commit": "2017-01-17",
+    "last_commit": "2017-01-17",
+    "tags": "Burp扩展",
+    "description": "burpChat is a BurpSuite plugin that enables collaborative BurpSuite usage using XMPP/Jabber."
+  },
+  {
+    "author": "luh2",
+    "project": "PDFMetadata",
+    "url": "https://github.com/luh2/PDFMetadata",
+    "first_commit": "2015-06-17",
+    "last_commit": "2017-01-10",
+    "tags": "主动扫描,被动扫描",
+    "description": "The PDF Metadata Burp Extension provides an additional passive Scanner check for metadata in PDF files."
+  },
+  {
+    "author": "vergl4s",
+    "project": "signatures",
+    "url": "https://github.com/vergl4s/signatures",
+    "first_commit": "2016-08-01",
+    "last_commit": "2016-08-01",
+    "tags": "Burp扩展",
+    "description": "Length extension attacks in Burp Suite"
+  },
+  {
+    "author": "PolitoInc",
+    "project": "Yara-Scanner",
+    "url": "https://github.com/PolitoInc/Yara-Scanner",
+    "first_commit": "2016-01-27",
+    "last_commit": "2016-06-30",
+    "tags": "主动扫描",
+    "description": "Yara intergrated into BurpSuite "
+  },
+  {
+    "author": "ernw",
+    "project": "burpsuite-extensions",
+    "url": "https://github.com/ernw/burpsuite-extensions",
+    "first_commit": "2016-06-08",
+    "last_commit": "2016-06-16",
+    "tags": "Burp扩展",
+    "description": "A collection of Burp Suite extensions"
+  },
+  {
+    "author": "summitt",
+    "project": "burp-ysoserial",
+    "url": "https://github.com/summitt/burp-ysoserial",
+    "first_commit": "2016-05-19",
+    "last_commit": "2016-05-19",
+    "tags": "Burp扩展",
+    "description": "YSOSERIAL Integration with burp suite"
+  },
+  {
+    "author": "ginjabenjamin",
+    "project": "Burp",
+    "url": "https://github.com/ginjabenjamin/Burp",
+    "first_commit": "2015-10-30",
+    "last_commit": "2016-01-09",
+    "tags": "Burp扩展",
+    "description": "Burp Extenders"
+  },
+  {
+    "author": "ahri",
+    "project": "burp-report-to-elasticsearch",
+    "url": "https://github.com/ahri/burp-report-to-elasticsearch",
+    "first_commit": "2015-12-01",
+    "last_commit": "2015-12-21",
+    "tags": "Burp扩展",
+    "description": "A Burp extension that passes along discovered Issues to an ElasticSearch database."
+  },
+  {
+    "author": "carstein",
+    "project": "burp-extensions",
+    "url": "https://github.com/carstein/burp-extensions",
+    "first_commit": "2013-01-29",
+    "last_commit": "2015-11-20",
+    "tags": "功能增强",
+    "description": "Automatically exported from code.google.com/p/burp-extensions"
+  },
+  {
+    "author": "asaafan",
+    "project": "CSurfer",
+    "url": "https://github.com/asaafan/CSurfer",
+    "first_commit": "2014-11-22",
+    "last_commit": "2015-10-07",
+    "tags": "流量处理",
+    "description": "A CSRF guard hiding extension that keeps track of the latest guard value per session and update new requests accordingly"
+  },
+  {
+    "author": "augustd",
+    "project": "burp-suite-gwt-scan",
+    "url": "https://github.com/augustd/burp-suite-gwt-scan",
+    "first_commit": "2014-09-18",
+    "last_commit": "2015-09-24",
+    "tags": "流量处理,功能增强",
+    "description": "Burp Suite plugin identifies insertion points for GWT (Google Web Toolkit) requests "
+  },
+  {
+    "author": "h3xstream",
+    "project": "burp-pdf-viewer",
+    "url": "https://github.com/h3xstream/burp-pdf-viewer",
+    "first_commit": "2015-08-13",
+    "last_commit": "2015-08-20",
+    "tags": "Burp扩展",
+    "description": "PDF preview in Burp Suite"
+  },
+  {
+    "author": "burp-hash",
+    "project": "burp-hash",
+    "url": "https://github.com/burp-hash/burp-hash",
+    "first_commit": "2015-05-15",
+    "last_commit": "2015-08-05",
+    "tags": "Burp扩展",
+    "description": ""
+  },
+  {
+    "author": "integrissecurity",
+    "project": "carbonator",
+    "url": "https://github.com/integrissecurity/carbonator",
+    "first_commit": "2014-02-27",
+    "last_commit": "2015-07-27",
+    "tags": "AI集成",
+    "description": "Integris Security Carbonator - The Burp Suite Pro extension that automates scope, spider & scan from the command line. Carbonator helps automate the vulnerability scanning of web applications. Either 1 or 100 web applications can be scanned by issuing a single command.  Carbonator is now available from within Burp Suite Pro through the BApp Store."
+  },
+  {
+    "author": "lgrangeia",
+    "project": "aesburp",
+    "url": "https://github.com/lgrangeia/aesburp",
+    "first_commit": "2015-06-26",
+    "last_commit": "2015-07-08",
+    "tags": "加密解密",
+    "description": "Burp Extension to manipulate AES encrypted payloads"
+  },
+  {
+    "author": "allfro",
+    "project": "dotNetBeautifier",
+    "url": "https://github.com/allfro/dotNetBeautifier",
+    "first_commit": "2014-03-11",
+    "last_commit": "2015-06-29",
+    "tags": "Burp扩展",
+    "description": "A BurpSuite extension for beautifying .NET message parameters and hiding some of the extra clutter that comes with .NET web apps (i.e. __VIEWSTATE)."
+  },
+  {
+    "author": "tduehr",
+    "project": "buby",
+    "url": "https://github.com/tduehr/buby",
+    "first_commit": "2009-05-08",
+    "last_commit": "2015-04-24",
+    "tags": "Burp扩展",
+    "description": "A JRuby implementation of the BurpExtender interface for PortSwigger Burp Suite."
+  },
+  {
+    "author": "jfoote",
+    "project": "burp-git-bridge",
+    "url": "https://github.com/jfoote/burp-git-bridge",
+    "first_commit": "2015-03-30",
+    "last_commit": "2015-04-22",
+    "tags": "Burp扩展",
+    "description": "Store Burp data and collaborate via git"
+  },
+  {
+    "author": "dinosec",
+    "project": "burp-protobuf-decoder",
+    "url": "https://github.com/dinosec/burp-protobuf-decoder",
+    "first_commit": "2013-05-26",
+    "last_commit": "2015-03-07",
+    "tags": "Burp扩展",
+    "description": "A simple Google Protobuf Decoder for Burp"
+  },
+  {
+    "author": "malerisch",
+    "project": "burp-csj",
+    "url": "https://github.com/malerisch/burp-csj",
+    "first_commit": "2013-08-19",
+    "last_commit": "2014-12-22",
+    "tags": "主动扫描",
+    "description": "BurpCSJ extension for Burp Pro - Crawljax Selenium JUnit integration"
+  },
+  {
+    "author": "dionach",
+    "project": "HeadersAnalyzer",
+    "url": "https://github.com/dionach/HeadersAnalyzer",
+    "first_commit": "2014-08-07",
+    "last_commit": "2014-09-04",
+    "tags": "API安全,加密解密",
+    "description": "Burp extension that checks for interesting and security headers"
+  },
+  {
+    "author": "EnableSecurity",
+    "project": "Identity-Crisis",
+    "url": "https://github.com/EnableSecurity/Identity-Crisis",
+    "first_commit": "2014-09-04",
+    "last_commit": "2014-09-04",
+    "tags": "Burp扩展",
+    "description": "A Burp Suite extension that checks if a particular URL responds differently to various User-Agent headers"
+  },
+  {
+    "author": "irsdl",
+    "project": "BurpSuiteJSBeautifier",
+    "url": "https://github.com/irsdl/BurpSuiteJSBeautifier",
+    "first_commit": "2014-02-04",
+    "last_commit": "2014-05-20",
+    "tags": "Burp扩展",
+    "description": "Burp Suite JS Beautifier"
+  },
+  {
+    "author": "xxux11",
+    "project": "BurpHeartbleedExtension",
+    "url": "https://github.com/xxux11/BurpHeartbleedExtension",
+    "first_commit": "2014-04-12",
+    "last_commit": "2014-04-16",
+    "tags": "Burp扩展",
+    "description": "Burp Heartbleed Extension"
+  },
+  {
+    "author": "chrismsnz",
+    "project": "burp_saml",
+    "url": "https://github.com/chrismsnz/burp_saml",
+    "first_commit": "2013-09-10",
+    "last_commit": "2014-04-11",
+    "tags": "流量处理",
+    "description": "Plugin for Burp to allow viewing and editing of intercepted SAML messages"
+  },
+  {
+    "author": "allfro",
+    "project": "browserRepeater",
+    "url": "https://github.com/allfro/browserRepeater",
+    "first_commit": "2014-04-01",
+    "last_commit": "2014-04-01",
+    "tags": "流量处理,功能增强",
+    "description": "BurpSuite extension for Repeater tool that renders responses in a real browser."
+  },
+  {
+    "author": "SmeegeSec",
+    "project": "WSDLWizard",
+    "url": "https://github.com/SmeegeSec/WSDLWizard",
+    "first_commit": "2013-04-20",
+    "last_commit": "2014-03-08",
+    "tags": "被动扫描",
+    "description": "WSDL Wizard is a Burp Suite plugin written in Python to detect current and discover new WSDL (Web Service Definition Language) files."
+  },
+  {
+    "author": "SpiderLabs",
+    "project": "BurpNotesExtension",
+    "url": "https://github.com/SpiderLabs/BurpNotesExtension",
+    "first_commit": "2013-01-09",
+    "last_commit": "2014-02-27",
+    "tags": "AI集成,功能增强",
+    "description": "Burp Notes Extension is a plugin for Burp Suite that adds a Notes tab. The tool aims to better organize external files that are created during penetration testing."
+  },
+  {
+    "author": "augustd",
+    "project": "burp-suite-session-timeout-test",
+    "url": "https://github.com/augustd/burp-suite-session-timeout-test",
+    "first_commit": "2013-12-04",
+    "last_commit": "2013-12-04",
+    "tags": "功能增强",
+    "description": "Automatically exported from code.google.com/p/burp-suite-session-timeout-test"
+  },
+  {
+    "author": "Space-Cased",
+    "project": "burp.extension-nmap_parser",
+    "url": "https://github.com/Space-Cased/burp.extension-nmap_parser",
+    "first_commit": "2013-03-14",
+    "last_commit": "2013-03-27",
+    "tags": "Burp扩展",
+    "description": "NMap Parsing Extension for Burp Suite"
+  },
+  {
+    "author": "Space-Cased",
+    "project": "burp.extension-payloadparser",
+    "url": "https://github.com/Space-Cased/burp.extension-payloadparser",
+    "first_commit": "2013-03-15",
+    "last_commit": "2013-03-15",
+    "tags": "AI集成",
+    "description": "Burp Extension for parsing payloads containing/excluding characters you provide."
+  },
+  {
+    "author": "Space-Cased",
+    "project": "burp.extension-googlehack",
+    "url": "https://github.com/Space-Cased/burp.extension-googlehack",
+    "first_commit": "2013-03-14",
+    "last_commit": "2013-03-14",
+    "tags": "Burp扩展",
+    "description": "Burp Suite Extension providing Google Hacking Interface"
+  }
+]

@@ -1,0 +1,69 @@
+name: 提交 Burp Suite 扩展
+description: 向扩展库提交新的 Burp Suite 扩展
+title: "[扩展提交] "
+labels: ["扩展提交"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📦 提交新扩展
+
+        感谢您为 BApp 扩展库做出贡献！请填写以下信息。
+
+        **注意**:
+        - 项目必须托管在 GitHub 上
+        - 系统会自动检测重复提交
+        - 自动获取首次/最后提交时间
+
+  - type: input
+    id: project_url
+    attributes:
+      label: 项目链接
+      description: GitHub 项目地址（必填）
+      placeholder: "https://github.com/owner/repo"
+    validations:
+      required: true
+
+  - type: textarea
+    id: tags
+    attributes:
+      label: 标签
+      description: |
+        请使用中文标签，多个标签用逗号分隔
+
+        常用标签参考:
+        - 扫描类: 主动扫描、被动扫描、漏洞检测、漏洞利用
+        - 加密类: 加密解密、编码解码、加密流量
+        - 注入类: SQL注入、XSS检测、SSRF检测、命令注入
+        - 绕过类: WAF绕过、权限绕过、验证码绕过
+        - API类: API安全、API测试、API分析
+        - 权限类: 越权检测、IDOR检测、BAC检测、权限测试
+        - 增强类: 功能增强、UI优化、快捷操作
+        - 信息类: 信息收集、敏感信息、指纹识别
+        - 流量类: 流量分析、流量监控、数据导出
+        - AI类: AI集成、AI扫描、AI分析、自动化
+        - 其他: 模糊测试、团队协作、规则引擎
+      placeholder: "主动扫描,API安全,漏洞检测"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 项目描述
+      description: 简要描述扩展的功能和特点（中文）
+      placeholder: "这是一个用于...的 Burp Suite 扩展"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: 确认事项
+      options:
+        - label: 我确认这是一个 Burp Suite 扩展项目
+          required: true
+        - label: 我确认项目链接有效且公开可访问
+          required: true
+        - label: 我已阅读并同意项目的贡献指南
+          required: true
